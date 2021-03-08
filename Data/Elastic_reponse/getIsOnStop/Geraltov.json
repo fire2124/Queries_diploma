@@ -1,0 +1,76 @@
+{
+    "type": "FeatureCollection",
+    "name": "isOnStop",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.26138,
+                    49.13763
+                ]
+            },
+            "properties": {
+                "Current_Stop": "Geraltov",
+                "seconds": 30
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.26136,
+                    49.13767
+                ]
+            },
+            "properties": {
+                "Current_Stop": "Geraltov",
+                "seconds": 45
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.26126,
+                    49.13764
+                ]
+            },
+            "properties": {
+                "Current_Stop": "Geraltov",
+                "seconds": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.26124,
+                    49.13764
+                ]
+            },
+            "properties": {
+                "Current_Stop": "Geraltov",
+                "seconds": 29
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.26126,
+                    49.13765
+                ]
+            },
+            "properties": {
+                "Current_Stop": "Geraltov",
+                "seconds": 15
+            }
+        }
+    ]
+}

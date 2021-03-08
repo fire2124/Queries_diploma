@@ -1,1 +1,1 @@
-# Queries_diploma
+# Diplomovka

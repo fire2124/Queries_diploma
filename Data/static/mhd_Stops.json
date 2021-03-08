@@ -1,0 +1,5609 @@
+{
+    "type": "FeatureCollection",
+    "name": "Stops_Mhd_Presov",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.23933,
+                    49.00013
+                ]
+            },
+            "properties": {
+                "name": "Trojica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.23983,
+                    48.99922
+                ]
+            },
+            "properties": {
+                "name": "Trojica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.242162,
+                    48.99559
+                ]
+            },
+            "properties": {
+                "name": "Na Hlavnej"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.241792,
+                    48.99604
+                ]
+            },
+            "properties": {
+                "name": "Na Hlavnej"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.244072,
+                    48.99325
+                ]
+            },
+            "properties": {
+                "name": "Divadlo Jonáša Záborského"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.24536,
+                    48.99164
+                ]
+            },
+            "properties": {
+                "name": "Veľká pošta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.247,
+                    48.98952
+                ]
+            },
+            "properties": {
+                "name": "Čierny most"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.24975,
+                    48.984332
+                ]
+            },
+            "properties": {
+                "name": "Železničná stanica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.249961,
+                    48.983375
+                ]
+            },
+            "properties": {
+                "name": "Železničná stanica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.23595,
+                    49.00095
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.23324,
+                    49.00078
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.22806,
+                    48.99797
+                ]
+            },
+            "properties": {
+                "name": "Obrancov mieru"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.22835,
+                    48.99713
+                ]
+            },
+            "properties": {
+                "name": "Obrancov mieru"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.21721,
+                    48.98128
+                ]
+            },
+            "properties": {
+                "name": "Za Kalváriou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.21767,
+                    48.98328
+                ]
+            },
+            "properties": {
+                "name": "Hôrka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.22092,
+                    48.985624
+                ]
+            },
+            "properties": {
+                "name": "Záhradkárska osada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2262,
+                    48.986137
+                ]
+            },
+            "properties": {
+                "name": "Horárska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.229503,
+                    48.987468
+                ]
+            },
+            "properties": {
+                "name": "Zimný štadión"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.229298,
+                    48.9879
+                ]
+            },
+            "properties": {
+                "name": "Zimný štadión"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.229542,
+                    48.99091
+                ]
+            },
+            "properties": {
+                "name": "Pod Kalváriou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.228907,
+                    48.992765
+                ]
+            },
+            "properties": {
+                "name": "Stredná lesnícka škola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.224853,
+                    48.992133
+                ]
+            },
+            "properties": {
+                "name": "Kollárova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.223577,
+                    48.994369
+                ]
+            },
+            "properties": {
+                "name": "Sázavského"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.222153,
+                    48.996634
+                ]
+            },
+            "properties": {
+                "name": "Odborárska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.221948,
+                    48.99707
+                ]
+            },
+            "properties": {
+                "name": "Odborárska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.22712,
+                    48.998092
+                ]
+            },
+            "properties": {
+                "name": "Centrál"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.245505,
+                    48.9932
+                ]
+            },
+            "properties": {
+                "name": "Grešova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.25259,
+                    48.9964
+                ]
+            },
+            "properties": {
+                "name": "Fakultná nemocnica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.25087,
+                    48.99853
+                ]
+            },
+            "properties": {
+                "name": "Detská nemocnica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2511,
+                    48.998242
+                ]
+            },
+            "properties": {
+                "name": "Detská nemocnica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2479,
+                    48.99951
+                ]
+            },
+            "properties": {
+                "name": "Dilongova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.24846,
+                    48.99752
+                ]
+            },
+            "properties": {
+                "name": "Sládkovičova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.25021,
+                    48.99519
+                ]
+            },
+            "properties": {
+                "name": "Moyzesova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.239289,
+                    49.001793
+                ]
+            },
+            "properties": {
+                "name": "(roh z Levočskej vpravo na Hlavnú)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.227,
+                    48.99973
+                ]
+            },
+            "properties": {
+                "name": "(roh z Levočskej vľavo na Obrancov mieru)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.22296,
+                    48.99708
+                ]
+            },
+            "properties": {
+                "name": "Októbrová"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.22948,
+                    48.9954
+                ]
+            },
+            "properties": {
+                "name": "Námestie mládeže"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.24467,
+                    48.97635
+                ]
+            },
+            "properties": {
+                "name": "Budovateľská"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.244155,
+                    48.979054
+                ]
+            },
+            "properties": {
+                "name": "Pekárne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.243626,
+                    48.98179
+                ]
+            },
+            "properties": {
+                "name": "Priemyselné centrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.243422,
+                    48.98293
+                ]
+            },
+            "properties": {
+                "name": "Priemyselné centrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.242914,
+                    48.98605
+                ]
+            },
+            "properties": {
+                "name": "Štúrova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.243006,
+                    48.98533
+                ]
+            },
+            "properties": {
+                "name": "Štúrova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2298,
+                    49.02365
+                ]
+            },
+            "properties": {
+                "name": "Bajkalská"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.231768,
+                    49.020945
+                ]
+            },
+            "properties": {
+                "name": "Veterinárna nemocnica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.235836,
+                    49.0206
+                ]
+            },
+            "properties": {
+                "name": "Rázcestie Šidlovec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.23532,
+                    49.02129
+                ]
+            },
+            "properties": {
+                "name": "Rázcestie Šidlovec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.236554,
+                    49.01547
+                ]
+            },
+            "properties": {
+                "name": "Pod Skalkou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.236679,
+                    49.01498
+                ]
+            },
+            "properties": {
+                "name": "Pod Skalkou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.236887,
+                    49.01171
+                ]
+            },
+            "properties": {
+                "name": "Mičurinova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.236787,
+                    49.0112
+                ]
+            },
+            "properties": {
+                "name": "Mičurinova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.23822,
+                    49.00652
+                ]
+            },
+            "properties": {
+                "name": "Sabinovská"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.238546,
+                    49.00572
+                ]
+            },
+            "properties": {
+                "name": "Sabinovská"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.24177,
+                    48.98658
+                ]
+            },
+            "properties": {
+                "name": "Škultétyho"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2415,
+                    48.986433
+                ]
+            },
+            "properties": {
+                "name": "Škultétyho"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.235562,
+                    48.99006
+                ]
+            },
+            "properties": {
+                "name": "Prešovská univerzita"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.232566,
+                    48.99359
+                ]
+            },
+            "properties": {
+                "name": "Duchnovičovo námestie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2427,
+                    48.986885
+                ]
+            },
+            "properties": {
+                "name": "(roh zo Škultétyho vľavo na Budovateľskú)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.247615,
+                    48.9886
+                ]
+            },
+            "properties": {
+                "name": "(roh zo Škultétyho vľavo na Masarykovu)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.230027,
+                    48.99419
+                ]
+            },
+            "properties": {
+                "name": "(roh z Obrancov mieru vľavo na Požiarnicku)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2304,
+                    48.99438
+                ]
+            },
+            "properties": {
+                "name": "(roh z Požiarnickej vpravo na Obrancov mieru)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.231957,
+                    48.9947
+                ]
+            },
+            "properties": {
+                "name": "(roh zo 17. novembra vľavo na Požiarnicku)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.23213,
+                    49.024866
+                ]
+            },
+            "properties": {
+                "name": "Dúbrava"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.243424,
+                    49.0033
+                ]
+            },
+            "properties": {
+                "name": "Duklianska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.24165,
+                    49.00277
+                ]
+            },
+            "properties": {
+                "name": "Duklianska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2501,
+                    49.00827
+                ]
+            },
+            "properties": {
+                "name": "Rázcestie Kúty"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.258269,
+                    49.010862
+                ]
+            },
+            "properties": {
+                "name": "Dopravný podnik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.257009,
+                    49.010617
+                ]
+            },
+            "properties": {
+                "name": "Dopravný podnik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.27185,
+                    49.01801
+                ]
+            },
+            "properties": {
+                "name": "Šarišské Lúky"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2763,
+                    49.02118
+                ]
+            },
+            "properties": {
+                "name": "Vranovská"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2808,
+                    49.02305
+                ]
+            },
+            "properties": {
+                "name": "Pažica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.28213,
+                    49.02358
+                ]
+            },
+            "properties": {
+                "name": "Pažica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2862,
+                    49.024792
+                ]
+            },
+            "properties": {
+                "name": "Nižná Šebastová"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.286496,
+                    49.02488
+                ]
+            },
+            "properties": {
+                "name": "Nižná Šebastová"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2734,
+                    49.019571
+                ]
+            },
+            "properties": {
+                "name": "(medzi zastávkami Vranovská a Skleník smer západ)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2862,
+                    49.025167
+                ]
+            },
+            "properties": {
+                "name": "(roh z Herlianskej vľavo na Vranovskú)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2566,
+                    48.98141
+                ]
+            },
+            "properties": {
+                "name": "Škára"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2555,
+                    48.982015
+                ]
+            },
+            "properties": {
+                "name": "Škára"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.250398,
+                    48.9814
+                ]
+            },
+            "properties": {
+                "name": "(roh z Košickej vľavo na Východnú)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.26646,
+                    48.977418
+                ]
+            },
+            "properties": {
+                "name": "Solivarská"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2653,
+                    48.97738
+                ]
+            },
+            "properties": {
+                "name": "Solivarská"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.27124,
+                    48.97877
+                ]
+            },
+            "properties": {
+                "name": "Bohúňova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.27485,
+                    48.97958
+                ]
+            },
+            "properties": {
+                "name": "Múzeum Solivar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.27434,
+                    48.979439
+                ]
+            },
+            "properties": {
+                "name": "Múzeum Solivar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.27688,
+                    48.97824
+                ]
+            },
+            "properties": {
+                "name": "Solivar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.250575,
+                    48.98146
+                ]
+            },
+            "properties": {
+                "name": "(roh z Východnej vpravo na Košickú)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2287,
+                    49.02343
+                ]
+            },
+            "properties": {
+                "name": "Sídlisko III"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.22462,
+                    49.02083
+                ]
+            },
+            "properties": {
+                "name": "Prostějovská"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.22335,
+                    49.0169
+                ]
+            },
+            "properties": {
+                "name": "Centrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.222172,
+                    49.01056
+                ]
+            },
+            "properties": {
+                "name": "VUKOV"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.22246,
+                    49.01222
+                ]
+            },
+            "properties": {
+                "name": "VUKOV"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.22144,
+                    49.00686
+                ]
+            },
+            "properties": {
+                "name": "Námestie Kráľovnej pokoja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.220938,
+                    49.00415
+                ]
+            },
+            "properties": {
+                "name": "Volgogradská"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.22086,
+                    49.00366
+                ]
+            },
+            "properties": {
+                "name": "Volgogradská"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.224,
+                    49.001743
+                ]
+            },
+            "properties": {
+                "name": "Clementisova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.22442,
+                    49.00162
+                ]
+            },
+            "properties": {
+                "name": "Clementisova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.226986,
+                    48.99972
+                ]
+            },
+            "properties": {
+                "name": "(roh z Clementisovej vľavo na Levočskú)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.26404,
+                    48.97935
+                ]
+            },
+            "properties": {
+                "name": "Lesnícka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.263872,
+                    48.97888
+                ]
+            },
+            "properties": {
+                "name": "Lesnícka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2638,
+                    48.98379
+                ]
+            },
+            "properties": {
+                "name": "Pavla Horova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.263612,
+                    48.9838
+                ]
+            },
+            "properties": {
+                "name": "Pavla Horova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.264588,
+                    48.98716
+                ]
+            },
+            "properties": {
+                "name": "Martina Benku"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2644,
+                    48.98705
+                ]
+            },
+            "properties": {
+                "name": "Martina Benku"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.26745,
+                    48.98967
+                ]
+            },
+            "properties": {
+                "name": "Laca Novomeského"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.266882,
+                    48.99013
+                ]
+            },
+            "properties": {
+                "name": "Laca Novomeského"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.27123,
+                    48.99196
+                ]
+            },
+            "properties": {
+                "name": "Vansovej"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.27555,
+                    48.99349
+                ]
+            },
+            "properties": {
+                "name": "Pod Šalgovíkom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.26611,
+                    49.01713
+                ]
+            },
+            "properties": {
+                "name": "Ľubochnianska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.26591,
+                    49.0201
+                ]
+            },
+            "properties": {
+                "name": "Strojnícka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.266469,
+                    49.02294
+                ]
+            },
+            "properties": {
+                "name": "Družstevná"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.26711,
+                    49.02508
+                ]
+            },
+            "properties": {
+                "name": "Širpo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.26697,
+                    49.025337
+                ]
+            },
+            "properties": {
+                "name": "(zo zastávky Širpo okolo Ekoprimu)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.268287,
+                    48.99435
+                ]
+            },
+            "properties": {
+                "name": "Jurkovičova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.267538,
+                    48.99385
+                ]
+            },
+            "properties": {
+                "name": "Jurkovičova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.269927,
+                    48.99723
+                ]
+            },
+            "properties": {
+                "name": "Karpatská"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.269338,
+                    48.99617
+                ]
+            },
+            "properties": {
+                "name": "Karpatská"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.272418,
+                    49.00096
+                ]
+            },
+            "properties": {
+                "name": "Sibírska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.269322,
+                    49.0003
+                ]
+            },
+            "properties": {
+                "name": "(roh z Vihorlatskej vľavo na Arm. gen. Svobodu)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.251195,
+                    48.97864
+                ]
+            },
+            "properties": {
+                "name": "Nový Solivar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.25285,
+                    48.97276
+                ]
+            },
+            "properties": {
+                "name": "Košická"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.25294,
+                    48.970947
+                ]
+            },
+            "properties": {
+                "name": "Košická"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.25745,
+                    48.95544
+                ]
+            },
+            "properties": {
+                "name": "Petrovianska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.256854,
+                    48.9593
+                ]
+            },
+            "properties": {
+                "name": "Petrovianska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.24598,
+                    48.99235
+                ]
+            },
+            "properties": {
+                "name": "Kapitána Nálepku"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.244385,
+                    48.99286
+                ]
+            },
+            "properties": {
+                "name": "(roh z Grešovej vľavo na Masarykovu)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.25519,
+                    48.970473
+                ]
+            },
+            "properties": {
+                "name": "Chalupkova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.25887,
+                    48.971291
+                ]
+            },
+            "properties": {
+                "name": "Švábska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.262121,
+                    48.97421
+                ]
+            },
+            "properties": {
+                "name": "Lomnická"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.25048,
+                    48.9817
+                ]
+            },
+            "properties": {
+                "name": "(medzi zastávkami Košická a Nový Solivar smer sever)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.21158,
+                    49.0078
+                ]
+            },
+            "properties": {
+                "name": "Na Rúrkach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.214687,
+                    49.00507
+                ]
+            },
+            "properties": {
+                "name": "Jána Béreša"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.216365,
+                    49.003245
+                ]
+            },
+            "properties": {
+                "name": "Rázcestie Rúrky"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.224067,
+                    49.00052
+                ]
+            },
+            "properties": {
+                "name": "Levočská"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.223205,
+                    49.00095
+                ]
+            },
+            "properties": {
+                "name": "Levočská"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.23772,
+                    48.9851
+                ]
+            },
+            "properties": {
+                "name": "Mestská hala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2367,
+                    48.98438
+                ]
+            },
+            "properties": {
+                "name": "Mestská hala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.232845,
+                    48.9836
+                ]
+            },
+            "properties": {
+                "name": "Pod Kamennou baňou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2339,
+                    48.98335
+                ]
+            },
+            "properties": {
+                "name": "Pod Kamennou baňou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2275,
+                    48.98611
+                ]
+            },
+            "properties": {
+                "name": "Slávičia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.227093,
+                    48.98632
+                ]
+            },
+            "properties": {
+                "name": "Slávičia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.225,
+                    48.987158
+                ]
+            },
+            "properties": {
+                "name": "Ku Brezinám"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2217,
+                    48.98847
+                ]
+            },
+            "properties": {
+                "name": "Súľovská"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.21563,
+                    48.98855
+                ]
+            },
+            "properties": {
+                "name": "Terchovská"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.23764,
+                    49.02483
+                ]
+            },
+            "properties": {
+                "name": "Jánošíkova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.23794,
+                    49.02634
+                ]
+            },
+            "properties": {
+                "name": "Jánošíkova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.24043,
+                    49.030005
+                ]
+            },
+            "properties": {
+                "name": "Šidlovská"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2354,
+                    49.031028
+                ]
+            },
+            "properties": {
+                "name": "Dúbravská"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2325,
+                    49.02495
+                ]
+            },
+            "properties": {
+                "name": "Dúbrava"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.23493,
+                    49.0287
+                ]
+            },
+            "properties": {
+                "name": "Pri kaplnke"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2317,
+                    49.0249
+                ]
+            },
+            "properties": {
+                "name": "(roh z Dúbravy vľavo na Sabinovskú)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.22061,
+                    48.99955
+                ]
+            },
+            "properties": {
+                "name": "Marka Čulena"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2305,
+                    48.99311
+                ]
+            },
+            "properties": {
+                "name": "(roh z Kollárovej vľavo na Obrancov mieru)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.23517,
+                    48.99523
+                ]
+            },
+            "properties": {
+                "name": "Gymnázium sv. Moniky"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.23838,
+                    48.99178
+                ]
+            },
+            "properties": {
+                "name": "Kúpeľná"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2409,
+                    48.9902
+                ]
+            },
+            "properties": {
+                "name": "Pavlovičovo námestie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.24651,
+                    49.00425
+                ]
+            },
+            "properties": {
+                "name": "Šafárikova, cintorín"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2484,
+                    48.99384
+                ]
+            },
+            "properties": {
+                "name": "(roh z Jána Hollého vľavo na Lesík delostrelcov)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.24957,
+                    48.99244
+                ]
+            },
+            "properties": {
+                "name": "Lesík delostrelcov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.26272,
+                    48.991275
+                ]
+            },
+            "properties": {
+                "name": "Rusínska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.26272,
+                    48.99134
+                ]
+            },
+            "properties": {
+                "name": "Rusínska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.250798,
+                    48.99025
+                ]
+            },
+            "properties": {
+                "name": "(roh z Lesíka delostrelcov vľavo na Rusínsku)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.26482,
+                    48.99314
+                ]
+            },
+            "properties": {
+                "name": "Vyšné lúky"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.26573,
+                    48.99308
+                ]
+            },
+            "properties": {
+                "name": "Vyšné lúky"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2586,
+                    48.99311
+                ]
+            },
+            "properties": {
+                "name": "Nižné lúky"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.25147,
+                    48.99138
+                ]
+            },
+            "properties": {
+                "name": "Pod Táborom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.25253,
+                    48.99204
+                ]
+            },
+            "properties": {
+                "name": "Pod Táborom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.26687,
+                    48.99305
+                ]
+            },
+            "properties": {
+                "name": "(roh z Arm. gen. Svobodu vpravo na Pod Táborom)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.24867,
+                    48.9938
+                ]
+            },
+            "properties": {
+                "name": "(roh z Lesíka delostrelcov vpravo na Jána Hollého)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.24273,
+                    49.00147
+                ]
+            },
+            "properties": {
+                "name": "Vajanského"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.242463,
+                    49.00298
+                ]
+            },
+            "properties": {
+                "name": "(roh z Vajanského vľavo na Námestie mieru)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.246,
+                    48.990746
+                ]
+            },
+            "properties": {
+                "name": "(roh z Masarykovej vpravo na Partizánsku)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.311855,
+                    48.989919
+                ]
+            },
+            "properties": {
+                "name": "Teriakovce"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.31181,
+                    48.989881
+                ]
+            },
+            "properties": {
+                "name": "Teriakovce"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.308823,
+                    48.990585
+                ]
+            },
+            "properties": {
+                "name": "OcÚ Teriakovce"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.30443,
+                    48.99083
+                ]
+            },
+            "properties": {
+                "name": "Na Kruhu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.30208,
+                    48.99102
+                ]
+            },
+            "properties": {
+                "name": "Rázcestie Teriakovce"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.30177,
+                    48.99111
+                ]
+            },
+            "properties": {
+                "name": "Rázcestie Teriakovce"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.28852,
+                    48.99215
+                ]
+            },
+            "properties": {
+                "name": "Labutia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.287643,
+                    48.996308
+                ]
+            },
+            "properties": {
+                "name": "Šalgovík"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.28737,
+                    48.996847
+                ]
+            },
+            "properties": {
+                "name": "Šalgovík"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.28469,
+                    48.996463
+                ]
+            },
+            "properties": {
+                "name": "Kamenná"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.28393,
+                    48.995229
+                ]
+            },
+            "properties": {
+                "name": "Hruny"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.281807,
+                    48.994878
+                ]
+            },
+            "properties": {
+                "name": "Hruny"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.278883,
+                    48.994019
+                ]
+            },
+            "properties": {
+                "name": "Sekčovská"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.24273,
+                    49.03206
+                ]
+            },
+            "properties": {
+                "name": "Jahodová"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2481,
+                    49.03283
+                ]
+            },
+            "properties": {
+                "name": "Šidlovec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.24175,
+                    49.03301
+                ]
+            },
+            "properties": {
+                "name": "Stavbárska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2487,
+                    48.99128
+                ]
+            },
+            "properties": {
+                "name": "Plzenská"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.25331,
+                    48.970006
+                ]
+            },
+            "properties": {
+                "name": "(medzi zastávkami Košická a Chalupkova smer juh)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.22897,
+                    49.02358
+                ]
+            },
+            "properties": {
+                "name": "Sídlisko III"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.25029,
+                    48.982445
+                ]
+            },
+            "properties": {
+                "name": "(medzi zastávkami Nový Solivar a Železničná stanica smer sever)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.26474,
+                    49.012646
+                ]
+            },
+            "properties": {
+                "name": "(medzi zastávkami Dopr. podnik Ľubochnianska smer sever)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.27428,
+                    48.98138
+                ]
+            },
+            "properties": {
+                "name": "Kukučínova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.27289,
+                    48.98447
+                ]
+            },
+            "properties": {
+                "name": "Kysucká"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.24667,
+                    48.992551
+                ]
+            },
+            "properties": {
+                "name": "Kapitána Nálepku"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.248446,
+                    48.991234
+                ]
+            },
+            "properties": {
+                "name": "(medzi zastávkami Čierny most a Kapitána Nálepku)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.241684,
+                    49.006306
+                ]
+            },
+            "properties": {
+                "name": "Veselá"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.248198,
+                    49.008609
+                ]
+            },
+            "properties": {
+                "name": "K Surdoku"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.24741,
+                    49.01068
+                ]
+            },
+            "properties": {
+                "name": "Pod Šibeňou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.247846,
+                    49.014401
+                ]
+            },
+            "properties": {
+                "name": "Koryto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.24802,
+                    49.01468
+                ]
+            },
+            "properties": {
+                "name": "Koryto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.25033,
+                    49.0194
+                ]
+            },
+            "properties": {
+                "name": "Rybníčky"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.25249,
+                    49.0224
+                ]
+            },
+            "properties": {
+                "name": "Kúty"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.25319,
+                    49.0256
+                ]
+            },
+            "properties": {
+                "name": "Za Kútami"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.25793,
+                    49.02675
+                ]
+            },
+            "properties": {
+                "name": "Plachty"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.25769,
+                    49.02714
+                ]
+            },
+            "properties": {
+                "name": "Plachty"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.25578,
+                    49.03074
+                ]
+            },
+            "properties": {
+                "name": "Pred Surdokom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.25581,
+                    49.03109
+                ]
+            },
+            "properties": {
+                "name": "Pred Surdokom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.25827,
+                    49.03435
+                ]
+            },
+            "properties": {
+                "name": "Surdok"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.25231,
+                    49.00246
+                ]
+            },
+            "properties": {
+                "name": "Hviezdna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.24889,
+                    49.00236
+                ]
+            },
+            "properties": {
+                "name": "Vodárenská"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.24933,
+                    49.00238
+                ]
+            },
+            "properties": {
+                "name": "Vodárenská"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.245984,
+                    48.976339
+                ]
+            },
+            "properties": {
+                "name": "Jilemnického"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.24547,
+                    48.97629
+                ]
+            },
+            "properties": {
+                "name": "Jilemnického"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.24374,
+                    48.97192
+                ]
+            },
+            "properties": {
+                "name": "Pod Wilec hôrkou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.24413,
+                    48.9681
+                ]
+            },
+            "properties": {
+                "name": "Wilecova hôrka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.23969,
+                    48.96313
+                ]
+            },
+            "properties": {
+                "name": "Kamenná baňa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.236307,
+                    48.958703
+                ]
+            },
+            "properties": {
+                "name": "Borkút"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.244444,
+                    48.977457
+                ]
+            },
+            "properties": {
+                "name": "Budovateľská"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.244682,
+                    48.976278
+                ]
+            },
+            "properties": {
+                "name": "(roh Budovateľská x Jilemnického)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.27965,
+                    48.98207
+                ]
+            },
+            "properties": {
+                "name": "Soľnobanská"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.28876,
+                    48.98133
+                ]
+            },
+            "properties": {
+                "name": "Záhradky"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.31936,
+                    48.97782
+                ]
+            },
+            "properties": {
+                "name": "Pri zámočku"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.31899,
+                    48.9778
+                ]
+            },
+            "properties": {
+                "name": "Pri zámočku"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.32411,
+                    48.97779
+                ]
+            },
+            "properties": {
+                "name": "Na Záhumní"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.32445,
+                    48.97781
+                ]
+            },
+            "properties": {
+                "name": "Na Záhumní"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.32764,
+                    48.97918
+                ]
+            },
+            "properties": {
+                "name": "Hulica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.32781,
+                    48.97933
+                ]
+            },
+            "properties": {
+                "name": "Hulica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.33341,
+                    48.97812
+                ]
+            },
+            "properties": {
+                "name": "Ruská Nová Ves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.275965,
+                    48.979835
+                ]
+            },
+            "properties": {
+                "name": "(medzi zastávkami Soľnobanská a Solivar)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.23029,
+                    49.06582
+                ]
+            },
+            "properties": {
+                "name": "Kanaš - Stráže"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.22812,
+                    49.06121
+                ]
+            },
+            "properties": {
+                "name": "Stará škola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.23043,
+                    49.05824
+                ]
+            },
+            "properties": {
+                "name": "Medzi jarkami"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.23262,
+                    49.05676
+                ]
+            },
+            "properties": {
+                "name": "Pri kostole"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.23222,
+                    49.05349
+                ]
+            },
+            "properties": {
+                "name": "Husí hrb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.22424,
+                    49.04784
+                ]
+            },
+            "properties": {
+                "name": "Kozí rožok"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.216516,
+                    49.044342
+                ]
+            },
+            "properties": {
+                "name": "Sordok"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.21096,
+                    49.04382
+                ]
+            },
+            "properties": {
+                "name": "Rázcestie Kanaš"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.210874,
+                    49.042977
+                ]
+            },
+            "properties": {
+                "name": "Rázcestie Kanaš"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.21218,
+                    49.03548
+                ]
+            },
+            "properties": {
+                "name": "Pod kopaninou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.21203,
+                    49.0351
+                ]
+            },
+            "properties": {
+                "name": "Pod kopaninou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.22058,
+                    49.0287
+                ]
+            },
+            "properties": {
+                "name": "Bikoš"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.219568,
+                    49.028851
+                ]
+            },
+            "properties": {
+                "name": "Bikoš"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2625,
+                    48.95098
+                ]
+            },
+            "properties": {
+                "name": "Logistické centrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.26197,
+                    48.95109
+                ]
+            },
+            "properties": {
+                "name": "Logistické centrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2683,
+                    48.95601
+                ]
+            },
+            "properties": {
+                "name": "Priemyselný park Záborské"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.28788,
+                    48.94709
+                ]
+            },
+            "properties": {
+                "name": "Rázcestie Záborské"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.28932,
+                    48.94481
+                ]
+            },
+            "properties": {
+                "name": "Záborské - stred"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.28779,
+                    48.94243
+                ]
+            },
+            "properties": {
+                "name": "Záborské"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.232014,
+                    49.02478
+                ]
+            },
+            "properties": {
+                "name": "(medzi zastávkami Bikoš a Dúbrava)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.231716,
+                    49.024966
+                ]
+            },
+            "properties": {
+                "name": "(medzi zastávkami Dúbrava a Rázcestie Šidlovec)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.25587,
+                    48.952934
+                ]
+            },
+            "properties": {
+                "name": "(medzi zastávkami Hydinárske závody a Vysielač)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.21317,
+                    49.04102
+                ]
+            },
+            "properties": {
+                "name": "Šariš park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.21282,
+                    49.040766
+                ]
+            },
+            "properties": {
+                "name": "Šariš park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.256304,
+                    48.960688
+                ]
+            },
+            "properties": {
+                "name": "(medzi zastávkami Petrovianska a Košická)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.27218,
+                    48.955966
+                ]
+            },
+            "properties": {
+                "name": "(obratisko Honeywell)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.259183,
+                    48.949743
+                ]
+            },
+            "properties": {
+                "name": "LC Tesco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2091,
+                    49.04339
+                ]
+            },
+            "properties": {
+                "name": "Pivovar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.20397,
+                    49.04199
+                ]
+            },
+            "properties": {
+                "name": "Staničná"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1994,
+                    49.03923
+                ]
+            },
+            "properties": {
+                "name": "Medulienka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.199585,
+                    49.039168
+                ]
+            },
+            "properties": {
+                "name": "Medulienka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.19373,
+                    49.039044
+                ]
+            },
+            "properties": {
+                "name": "Námestie sv. Jakuba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.19075,
+                    49.03997
+                ]
+            },
+            "properties": {
+                "name": "Varoš"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.191297,
+                    49.03919
+                ]
+            },
+            "properties": {
+                "name": "Varoš"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.18888,
+                    49.04211
+                ]
+            },
+            "properties": {
+                "name": "Veľký Šariš"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.18964,
+                    49.04147
+                ]
+            },
+            "properties": {
+                "name": "Veľký Šariš"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.20091,
+                    49.04159
+                ]
+            },
+            "properties": {
+                "name": "ZŠ Veľký Šariš"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.20103,
+                    49.04379
+                ]
+            },
+            "properties": {
+                "name": "(medzi zastávkami Pivovar a ZŠ Veľký Šariš)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.192385,
+                    49.03832
+                ]
+            },
+            "properties": {
+                "name": "(medzi zastávkami Varoš a Námestie sv. Jakuba)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.192385,
+                    49.03832
+                ]
+            },
+            "properties": {
+                "name": "(medzi zastávkami Námestie sv. Jakuba a Medulienka)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.26015,
+                    48.96056
+                ]
+            },
+            "properties": {
+                "name": "Delňa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.26029,
+                    48.960731
+                ]
+            },
+            "properties": {
+                "name": "Delňa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.258789,
+                    48.962225
+                ]
+            },
+            "properties": {
+                "name": "Jelšová"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.25842,
+                    48.96316
+                ]
+            },
+            "properties": {
+                "name": "Jelšová"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.256931,
+                    48.964387
+                ]
+            },
+            "properties": {
+                "name": "Jesenná"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.256322,
+                    48.966917
+                ]
+            },
+            "properties": {
+                "name": "Jesenná"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.25687,
+                    48.96881
+                ]
+            },
+            "properties": {
+                "name": "Pionierska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.25709,
+                    48.96941
+                ]
+            },
+            "properties": {
+                "name": "Pionierska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.26689,
+                    49.01267
+                ]
+            },
+            "properties": {
+                "name": "Pod nadjazdom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.26765,
+                    49.01165
+                ]
+            },
+            "properties": {
+                "name": "Nižnianska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.26744,
+                    49.01164
+                ]
+            },
+            "properties": {
+                "name": "Nižnianska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.27025,
+                    49.01178
+                ]
+            },
+            "properties": {
+                "name": "Kalinčiakova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.27056,
+                    49.01252
+                ]
+            },
+            "properties": {
+                "name": "Kalinčiakova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.27361,
+                    49.01172
+                ]
+            },
+            "properties": {
+                "name": "Ľubotice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2794,
+                    49.01208
+                ]
+            },
+            "properties": {
+                "name": "Šalgovícka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.28078,
+                    49.01311
+                ]
+            },
+            "properties": {
+                "name": "Korabinského"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.27669,
+                    49.01341
+                ]
+            },
+            "properties": {
+                "name": "Jána Kostru"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.27733,
+                    49.017248
+                ]
+            },
+            "properties": {
+                "name": "Strážnická"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.27556,
+                    49.01784
+                ]
+            },
+            "properties": {
+                "name": "Bardejovská"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.27125,
+                    49.014902
+                ]
+            },
+            "properties": {
+                "name": "Domašská"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2767,
+                    49.0196
+                ]
+            },
+            "properties": {
+                "name": "Šebastovská"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.27692,
+                    49.02019
+                ]
+            },
+            "properties": {
+                "name": "Šebastovská"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.27949,
+                    49.02097
+                ]
+            },
+            "properties": {
+                "name": "Slanská"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.284722,
+                    49.019608
+                ]
+            },
+            "properties": {
+                "name": "Slávik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.28605,
+                    49.02211
+                ]
+            },
+            "properties": {
+                "name": "Limbová"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.23613,
+                    48.99723
+                ]
+            },
+            "properties": {
+                "name": "Floriánova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.236847,
+                    48.99632
+                ]
+            },
+            "properties": {
+                "name": "Floriánova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.23995,
+                    48.99351
+                ]
+            },
+            "properties": {
+                "name": "Okružná"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.24025,
+                    48.99322
+                ]
+            },
+            "properties": {
+                "name": "Okružná"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.241289,
+                    48.991993
+                ]
+            },
+            "properties": {
+                "name": "(roh Hviezdoslavova/Štefánikova)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.22448,
+                    49.01126
+                ]
+            },
+            "properties": {
+                "name": "Mukačevská"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.22628,
+                    49.01109
+                ]
+            },
+            "properties": {
+                "name": "Mukačevská"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.23312,
+                    49.00958
+                ]
+            },
+            "properties": {
+                "name": "Jazdecká"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.23326,
+                    49.00873
+                ]
+            },
+            "properties": {
+                "name": "Jazdecká"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.237124,
+                    49.006246
+                ]
+            },
+            "properties": {
+                "name": "Björnsonova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.22232,
+                    49.011433
+                ]
+            },
+            "properties": {
+                "name": "(medzi zastávkami VUKOV a Mukačevská smer východ)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.26647,
+                    49.004388
+                ]
+            },
+            "properties": {
+                "name": "(medzi zastávkami Karpatská a Pod nadjazdom)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.23833,
+                    48.991096
+                ]
+            },
+            "properties": {
+                "name": "(roh Štefánikova a Zápotockého)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.246065,
+                    48.990775
+                ]
+            },
+            "properties": {
+                "name": "(roh Masarykova a Partizánska)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.267766,
+                    49.009887
+                ]
+            },
+            "properties": {
+                "name": "Hinrichs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.266024,
+                    49.004722
+                ]
+            },
+            "properties": {
+                "name": "(medzi zastávkami Hinrichs a Karpatská smer juh)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2407,
+                    49.030277
+                ]
+            },
+            "properties": {
+                "name": "Šidlovská"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.24065,
+                    49.030062
+                ]
+            },
+            "properties": {
+                "name": "Šidlovská"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.171298,
+                    48.955174
+                ]
+            },
+            "properties": {
+                "name": "Bzenov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.169002,
+                    48.947307
+                ]
+            },
+            "properties": {
+                "name": "Rázcestie Janov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.16912,
+                    48.94671
+                ]
+            },
+            "properties": {
+                "name": "Rázcestie Janov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.165676,
+                    48.947719
+                ]
+            },
+            "properties": {
+                "name": "OcÚ Bzenov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.164844,
+                    48.948465
+                ]
+            },
+            "properties": {
+                "name": "OcÚ Bzenov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.17132,
+                    48.9762
+                ]
+            },
+            "properties": {
+                "name": "Chatky"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.17154,
+                    48.97668
+                ]
+            },
+            "properties": {
+                "name": "Chatky"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.17389,
+                    48.97986
+                ]
+            },
+            "properties": {
+                "name": "Čertov kameň"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.175214,
+                    48.983737
+                ]
+            },
+            "properties": {
+                "name": "Cemjata"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.17625,
+                    48.9875
+                ]
+            },
+            "properties": {
+                "name": "Školské lesy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.179287,
+                    48.989909
+                ]
+            },
+            "properties": {
+                "name": "Zabíjaná"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1799,
+                    48.98998
+                ]
+            },
+            "properties": {
+                "name": "Zabíjaná"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.19175,
+                    48.99011
+                ]
+            },
+            "properties": {
+                "name": "Kvašná voda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.198,
+                    48.99275
+                ]
+            },
+            "properties": {
+                "name": "Vydumanec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.20235,
+                    48.99571
+                ]
+            },
+            "properties": {
+                "name": "Lachôrka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.20373,
+                    48.99803
+                ]
+            },
+            "properties": {
+                "name": "Rázcestie Cemjata"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.20489,
+                    48.99906
+                ]
+            },
+            "properties": {
+                "name": "Rázcestie Cemjata"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.21542,
+                    49.00246
+                ]
+            },
+            "properties": {
+                "name": "Mýto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.21358,
+                    49.00234
+                ]
+            },
+            "properties": {
+                "name": "Mýto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.24716,
+                    48.96515
+                ]
+            },
+            "properties": {
+                "name": "Čistička"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.24978,
+                    48.96724
+                ]
+            },
+            "properties": {
+                "name": "Gemor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.252425,
+                    48.972586
+                ]
+            },
+            "properties": {
+                "name": "(medzi zastávkami Jilemnického Košická)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.253371,
+                    48.970729
+                ]
+            },
+            "properties": {
+                "name": "(medzi Chalupkovou a Budovateľskou)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.25132,
+                    48.96857
+                ]
+            },
+            "properties": {
+                "name": "ZVL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.241092,
+                    48.957413
+                ]
+            },
+            "properties": {
+                "name": "Priecestie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.24072,
+                    48.95557
+                ]
+            },
+            "properties": {
+                "name": "Lemešianska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.241274,
+                    48.953175
+                ]
+            },
+            "properties": {
+                "name": "Haniska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.282244,
+                    49.05962
+                ]
+            },
+            "properties": {
+                "name": "Fintice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.28226,
+                    49.05813
+                ]
+            },
+            "properties": {
+                "name": "Pri lipe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.28316,
+                    49.05514
+                ]
+            },
+            "properties": {
+                "name": "V kopci"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.286752,
+                    49.051468
+                ]
+            },
+            "properties": {
+                "name": "Námestie J. Kolarčíka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.286547,
+                    49.051854
+                ]
+            },
+            "properties": {
+                "name": "Námestie J. Kolarčíka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2851,
+                    49.04904
+                ]
+            },
+            "properties": {
+                "name": "Červený mostík"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.284727,
+                    49.046694
+                ]
+            },
+            "properties": {
+                "name": "Ihrisko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.28347,
+                    49.04025
+                ]
+            },
+            "properties": {
+                "name": "Gribľovec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.28211,
+                    49.03698
+                ]
+            },
+            "properties": {
+                "name": "Za traťou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.28038,
+                    49.03184
+                ]
+            },
+            "properties": {
+                "name": "Išľa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.27994,
+                    49.02924
+                ]
+            },
+            "properties": {
+                "name": "Fintická"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.27972,
+                    49.02766
+                ]
+            },
+            "properties": {
+                "name": "Fintická"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.27949,
+                    49.02642
+                ]
+            },
+            "properties": {
+                "name": "Nová"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2793,
+                    49.0251
+                ]
+            },
+            "properties": {
+                "name": "Nová"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.191488,
+                    49.001791
+                ]
+            },
+            "properties": {
+                "name": "Telekča"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.19145,
+                    49.001692
+                ]
+            },
+            "properties": {
+                "name": "Telekča"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.18119,
+                    49.00444
+                ]
+            },
+            "properties": {
+                "name": "Rázcestie Malý Šariš"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.179345,
+                    49.007973
+                ]
+            },
+            "properties": {
+                "name": "OcÚ Malý Šariš"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.18219,
+                    49.00976
+                ]
+            },
+            "properties": {
+                "name": "Nákupné stredisko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.185724,
+                    49.01237
+                ]
+            },
+            "properties": {
+                "name": "Šľachtiteľská stanica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.186557,
+                    49.014944
+                ]
+            },
+            "properties": {
+                "name": "Malý Šariš"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.19443,
+                    49.03397
+                ]
+            },
+            "properties": {
+                "name": "Tulčícka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.28803,
+                    49.021338
+                ]
+            },
+            "properties": {
+                "name": "Generálplukovníka Ambruša"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.288302,
+                    49.021168
+                ]
+            },
+            "properties": {
+                "name": "Generálplukovníka Ambruša"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.317,
+                    49.01749
+                ]
+            },
+            "properties": {
+                "name": "Kamence"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.32039,
+                    49.01682
+                ]
+            },
+            "properties": {
+                "name": "Rázcestie Vyšná Šebastová"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.32611,
+                    49.01479
+                ]
+            },
+            "properties": {
+                "name": "OcÚ Vyšná Šebastová"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.32628,
+                    49.01467
+                ]
+            },
+            "properties": {
+                "name": "OcÚ Vyšná Šebastová"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.331309,
+                    49.011993
+                ]
+            },
+            "properties": {
+                "name": "Pod Maglovcom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.333664,
+                    49.010794
+                ]
+            },
+            "properties": {
+                "name": "Vyšná Šebastová"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.32861,
+                    49.023055
+                ]
+            },
+            "properties": {
+                "name": "Kapanoš"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.333028,
+                    49.024905
+                ]
+            },
+            "properties": {
+                "name": "Severná - kostol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.341005,
+                    49.023993
+                ]
+            },
+            "properties": {
+                "name": "Severná"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.245438,
+                    49.005403
+                ]
+            },
+            "properties": {
+                "name": "(roh Duklianska x Šafárikova)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.212353,
+                    49.006863
+                ]
+            },
+            "properties": {
+                "name": "(medzi zastávkami Na Rúrkach a Jána Bereša)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.202524,
+                    49.04443
+                ]
+            },
+            "properties": {
+                "name": "Andreja Sládkoviča"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.293116,
+                    49.019326
+                ]
+            },
+            "properties": {
+                "name": "Herlianska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.169863,
+                    48.951145
+                ]
+            },
+            "properties": {
+                "name": "(medzi zastávkami Rázcestie Janov a Bzenov)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.16905,
+                    48.946505
+                ]
+            },
+            "properties": {
+                "name": "(medzi zastávkami OcÚ Bzenov a Rázcestie Janov)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.279385,
+                    49.01773
+                ]
+            },
+            "properties": {
+                "name": "ZŠ Ľubotice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.280248,
+                    49.020213
+                ]
+            },
+            "properties": {
+                "name": "(k ZŠ Strážnická)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.222928,
+                    48.997087
+                ]
+            },
+            "properties": {
+                "name": "ZŠ Odborárska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.25292,
+                    48.9702
+                ]
+            },
+            "properties": {
+                "name": "(na kruháku pri ZVL medzi Košickou a Pražskou)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.266823,
+                    49.01178
+                ]
+            },
+            "properties": {
+                "name": "(roh z Nižnianskej vpravo na Arm. gen. Svobodu)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.264707,
+                    48.95085
+                ]
+            },
+            "properties": {
+                "name": "(križovatka Vysielač x Honeywell x Záborské)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.252771,
+                    48.969965
+                ]
+            },
+            "properties": {
+                "name": "(Pražská linka 34)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.252975,
+                    48.97057
+                ]
+            },
+            "properties": {
+                "name": "(na kruháku pri ZVL medzi Košickou a Košickou)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.242797,
+                    48.986627
+                ]
+            },
+            "properties": {
+                "name": "(medzi zastávkami Štúrova a Škultétyho)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.277713,
+                    48.994031
+                ]
+            },
+            "properties": {
+                "name": "(obratisko Pod Šalgovíkom - bod 2)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.259272,
+                    48.949766
+                ]
+            },
+            "properties": {
+                "name": "LC Tesco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.26683,
+                    48.99299
+                ]
+            },
+            "properties": {
+                "name": "(roh z Pod Táborom vpravo na Arm. gen. Svobodu)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.26698,
+                    48.99298
+                ]
+            },
+            "properties": {
+                "name": "(roh z Arm. gen. Svobodu vľavo na Pod Táborom)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.202186,
+                    48.998102
+                ]
+            },
+            "properties": {
+                "name": "(na kruháku pri obaľovačke medzi cestou I/18 od Popradu a cestou II/546 na Cemjatu)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.23043,
+                    48.99345
+                ]
+            },
+            "properties": {
+                "name": "Ostrovček"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.23016,
+                    48.99389
+                ]
+            },
+            "properties": {
+                "name": "Ostrovček"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.26404,
+                    48.97763
+                ]
+            },
+            "properties": {
+                "name": "(roh zo Solivarskej vľavo na Švábsku)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.283688,
+                    49.051237
+                ]
+            },
+            "properties": {
+                "name": "(Grófske nádvorie)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.252518,
+                    48.983241
+                ]
+            },
+            "properties": {
+                "name": "(na kruháku pri OBI medzi Východnou a Solivarskou k Nay)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.252426,
+                    48.984462
+                ]
+            },
+            "properties": {
+                "name": "Východná"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.26478,
+                    48.976274
+                ]
+            },
+            "properties": {
+                "name": "Suvorovova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.268769,
+                    48.974628
+                ]
+            },
+            "properties": {
+                "name": "Cintorín - Solivar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.274487,
+                    48.973169
+                ]
+            },
+            "properties": {
+                "name": "Na brehu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2774,
+                    48.975454
+                ]
+            },
+            "properties": {
+                "name": "Valkovská"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2524,
+                    48.98285
+                ]
+            },
+            "properties": {
+                "name": "(na kruháku pri OBI medzi Solivarskou od Nay a Východnou)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2501,
+                    48.991773
+                ]
+            },
+            "properties": {
+                "name": "(roh z Plzenskej vpravo na Lesík delostrelcov)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.265849,
+                    48.976316
+                ]
+            },
+            "properties": {
+                "name": "Suvorovova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.255123,
+                    48.954521
+                ]
+            },
+            "properties": {
+                "name": "Spinea - Záturecká"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.257811,
+                    48.954105
+                ]
+            },
+            "properties": {
+                "name": "(pomocný bod linka 26, privádzač)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.26031,
+                    48.94476
+                ]
+            },
+            "properties": {
+                "name": "Správa diaľníc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.27568,
+                    48.9799
+                ]
+            },
+            "properties": {
+                "name": "(roh z Kysuckej vpravo na Solivarskú)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.256077,
+                    48.991287
+                ]
+            },
+            "properties": {
+                "name": "Hobby park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.24914,
+                    48.9931
+                ]
+            },
+            "properties": {
+                "name": "(za zastávkou Lesík delostrelcov smer server)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.27778,
+                    48.99383
+                ]
+            },
+            "properties": {
+                "name": "(obratisko Pod Šalgovíkom - bod 1)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.26603,
+                    48.9909
+                ]
+            },
+            "properties": {
+                "name": "(roh z Laca Novomeského vpravo na Arm. gen. Svobodu)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.266535,
+                    49.0116
+                ]
+            },
+            "properties": {
+                "name": "(medzi zastávkami Karpatská smer sever a Dopravný podnik smer západ)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.264172,
+                    48.9775
+                ]
+            },
+            "properties": {
+                "name": "(roh zo Švábskej vľavo na Solivarskú)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.22444,
+                    49.01554
+                ]
+            },
+            "properties": {
+                "name": "ZŠ Prostějovská"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2232,
+                    49.015654
+                ]
+            },
+            "properties": {
+                "name": "(roh z Prostějovskej vpravo na Antona Prídavka)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.26645,
+                    49.011715
+                ]
+            },
+            "properties": {
+                "name": "(roh z Nižnianskej vľavo na Prešovskú)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.302593,
+                    48.989421
+                ]
+            },
+            "properties": {
+                "name": "Priečne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.27331,
+                    49.00114
+                ]
+            },
+            "properties": {
+                "name": "(obratisko Sibírska)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.27928,
+                    49.0225
+                ]
+            },
+            "properties": {
+                "name": "(roh z Vranovskej vľavo na Fintickú)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.280329,
+                    49.03143
+                ]
+            },
+            "properties": {
+                "name": "Vodná"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.24177,
+                    48.98658
+                ]
+            },
+            "properties": {
+                "name": "(Škultétyho smer západ)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.250593,
+                    48.987066
+                ]
+            },
+            "properties": {
+                "name": "(v strede Dostojevského ul.)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.25015,
+                    49.008366
+                ]
+            },
+            "properties": {
+                "name": "Rázcestie Kúty"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.278409,
+                    49.028095
+                ]
+            },
+            "properties": {
+                "name": "Potočná"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.278811,
+                    49.023748
+                ]
+            },
+            "properties": {
+                "name": "Včelárska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.276595,
+                    49.026043
+                ]
+            },
+            "properties": {
+                "name": "(Trnková v N. Šebastovej)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.28138,
+                    49.015029
+                ]
+            },
+            "properties": {
+                "name": "(Na rovni)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.241385,
+                    48.992126
+                ]
+            },
+            "properties": {
+                "name": "(kruhový objazd NOVUM smer Okružná)"
+            }
+        }
+    ]
+}

@@ -1,0 +1,2744 @@
+[
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2515, 48.9914] },
+    "properties": {
+      "stopID": 1,
+      "stopName": "Pod Táborom",
+      "stopCity": "Prešov",
+      "passingLines": ["12", "22"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2487, 48.9913] },
+    "properties": {
+      "stopID": 2,
+      "stopName": "Plzenská",
+      "stopCity": "Prešov",
+      "passingLines": ["11", "22"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2471, 48.9893] },
+    "properties": {
+      "stopID": 3,
+      "stopName": "Čierny most",
+      "stopCity": "Prešov",
+      "passingLines": [
+        "1",
+        "10",
+        "13",
+        "14",
+        "19",
+        "2",
+        "24",
+        "26",
+        "27",
+        "28",
+        "32",
+        "32A",
+        "36",
+        "39",
+        "4",
+        "42",
+        "44",
+        "45",
+        "46",
+        "5",
+        "7",
+        "8",
+        "N2"
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2496, 48.9925] },
+    "properties": {
+      "stopID": 4,
+      "stopName": "Lesík delostrelcov",
+      "stopCity": "Prešov",
+      "passingLines": ["11", "12", "22", "35"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2469, 48.9926] },
+    "properties": {
+      "stopID": 5,
+      "stopName": "Kpt. Nálepku",
+      "stopCity": "Prešov",
+      "passingLines": [
+        "11",
+        "13",
+        "14",
+        "21",
+        "22",
+        "24",
+        "42",
+        "43",
+        "44",
+        "46"
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2453, 48.9915] },
+    "properties": {
+      "stopID": 6,
+      "stopName": "Veľká pošta",
+      "stopCity": "Prešov",
+      "passingLines": [
+        "1",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "18",
+        "19",
+        "2",
+        "22",
+        "24",
+        "26",
+        "27",
+        "28",
+        "32",
+        "36",
+        "39",
+        "4",
+        "41",
+        "42",
+        "44",
+        "45",
+        "46",
+        "5",
+        "7",
+        "8",
+        "N2"
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2456, 48.9932] },
+    "properties": {
+      "stopID": 7,
+      "stopName": "Grešova",
+      "stopCity": "Prešov",
+      "passingLines": ["10", "15", "19", "21", "29"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.25243, 48.984793] },
+    "properties": {
+      "stopID": 8,
+      "stopName": "Východná",
+      "stopCity": "Prešov",
+      "passingLines": ["11"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2503, 48.9952] },
+    "properties": {
+      "stopID": 9,
+      "stopName": "Moyzesova",
+      "stopCity": "Prešov",
+      "passingLines": ["10", "15", "19", "29"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.244, 48.9933] },
+    "properties": {
+      "stopID": 10,
+      "stopName": "Divadlo Jonáša Záborského",
+      "stopCity": "Prešov",
+      "passingLines": [
+        "1",
+        "11",
+        "12",
+        "14",
+        "15",
+        "18",
+        "2",
+        "21",
+        "22",
+        "24",
+        "27",
+        "28",
+        "29",
+        "32",
+        "36",
+        "39",
+        "4",
+        "41",
+        "45",
+        "5",
+        "7",
+        "8",
+        "N2"
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.241, 48.9902] },
+    "properties": {
+      "stopID": 11,
+      "stopName": "Pavl. námestie",
+      "stopCity": "Prešov",
+      "passingLines": ["12"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2586, 48.993] },
+    "properties": {
+      "stopID": 12,
+      "stopName": "Nižné lúky",
+      "stopCity": "Prešov",
+      "passingLines": ["12", "22"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2499, 48.9832] },
+    "properties": {
+      "stopID": 13,
+      "stopName": "Žel. stanica",
+      "stopCity": "Prešov",
+      "passingLines": [
+        "1",
+        "10",
+        "14",
+        "19",
+        "24",
+        "26",
+        "28",
+        "30",
+        "37",
+        "38",
+        "39",
+        "4",
+        "42",
+        "43",
+        "45",
+        "46",
+        "8",
+        "N1",
+        "N2"
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2416, 48.9865] },
+    "properties": {
+      "stopID": 14,
+      "stopName": "Škultétyho",
+      "stopCity": "Prešov",
+      "passingLines": ["2", "27", "34", "38", "43", "5", "N1"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2429, 48.9853] },
+    "properties": {
+      "stopID": 15,
+      "stopName": "Štúrova",
+      "stopCity": "Prešov",
+      "passingLines": ["2", "30", "34", "42", "5", "7"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2526, 48.9964] },
+    "properties": {
+      "stopID": 16,
+      "stopName": "Hollého",
+      "stopCity": "Prešov",
+      "passingLines": ["10", "12", "15", "19", "21", "29", "35", "43"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2403, 48.9931] },
+    "properties": {
+      "stopID": 17,
+      "stopName": "Okružná",
+      "stopCity": "Prešov",
+      "passingLines": ["32", "32A"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2485, 48.9975] },
+    "properties": {
+      "stopID": 18,
+      "stopName": "Sládkovičova",
+      "stopCity": "Prešov",
+      "passingLines": ["10", "15", "19", "29"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.262302, 48.991382] },
+    "properties": {
+      "stopID": 19,
+      "stopName": "Hobby park",
+      "stopCity": "Prešov",
+      "passingLines": ["13", "32", "35", "44"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2421, 48.9957] },
+    "properties": {
+      "stopID": 20,
+      "stopName": "Na Hlavnej",
+      "stopCity": "Prešov",
+      "passingLines": [
+        "1",
+        "11",
+        "12",
+        "14",
+        "15",
+        "18",
+        "2",
+        "21",
+        "22",
+        "24",
+        "27",
+        "28",
+        "29",
+        "32",
+        "36",
+        "39",
+        "4",
+        "41",
+        "45",
+        "5",
+        "7",
+        "8",
+        "N2"
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2384, 48.9917] },
+    "properties": {
+      "stopID": 21,
+      "stopName": "Kúpeľná",
+      "stopCity": "Prešov",
+      "passingLines": ["12"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2628, 48.9912] },
+    "properties": {
+      "stopID": 22,
+      "stopName": "Rusínska",
+      "stopCity": "Prešov",
+      "passingLines": ["13", "32", "32A", "35", "36", "44"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2434, 48.9828] },
+    "properties": {
+      "stopID": 23,
+      "stopName": "Priemyselné centrum",
+      "stopCity": "Prešov",
+      "passingLines": ["2", "30", "34", "42", "5", "7"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2509, 48.9986] },
+    "properties": {
+      "stopID": 24,
+      "stopName": "Nemocnica",
+      "stopCity": "Prešov",
+      "passingLines": ["10", "12", "15", "19", "21", "29", "35", "43"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2567, 48.9813] },
+    "properties": {
+      "stopID": 25,
+      "stopName": "Škára",
+      "stopCity": "Prešov",
+      "passingLines": ["1", "11", "28", "37", "38", "39", "4", "45", "46", "8"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2647, 48.9872] },
+    "properties": {
+      "stopID": 26,
+      "stopName": "Martina Benku",
+      "stopCity": "Prešov",
+      "passingLines": [
+        "10",
+        "19",
+        "33",
+        "34",
+        "35",
+        "37",
+        "38",
+        "4",
+        "8",
+        "N1",
+        "N2"
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2354, 48.9904] },
+    "properties": {
+      "stopID": 27,
+      "stopName": "Vysokoškol. areál",
+      "stopCity": "Prešov",
+      "passingLines": ["2", "34", "38", "5", "N1"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.248, 48.9996] },
+    "properties": {
+      "stopID": 28,
+      "stopName": "Dilongova",
+      "stopCity": "Prešov",
+      "passingLines": ["10", "12", "15", "19", "29"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2648, 48.9931] },
+    "properties": {
+      "stopID": 29,
+      "stopName": "Vyšné lúky",
+      "stopCity": "Prešov",
+      "passingLines": ["22"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2366, 48.9844] },
+    "properties": {
+      "stopID": 30,
+      "stopName": "Mestská hala",
+      "stopCity": "Prešov",
+      "passingLines": ["27", "43"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2639, 48.9838] },
+    "properties": {
+      "stopID": 31,
+      "stopName": "Pavla Horova",
+      "stopCity": "Prešov",
+      "passingLines": [
+        "10",
+        "19",
+        "33",
+        "34",
+        "35",
+        "37",
+        "38",
+        "4",
+        "8",
+        "N1",
+        "N2"
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2669, 48.9902] },
+    "properties": {
+      "stopID": 32,
+      "stopName": "L. Novomeského",
+      "stopCity": "Prešov",
+      "passingLines": ["12", "19", "22", "34", "36", "4", "44", "N1", "N2"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.251, 48.9788] },
+    "properties": {
+      "stopID": 33,
+      "stopName": "Nový Solivar",
+      "stopCity": "Prešov",
+      "passingLines": [
+        "10",
+        "14",
+        "19",
+        "24",
+        "26",
+        "30",
+        "37",
+        "39",
+        "42",
+        "N1",
+        "N2"
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2351, 48.9953] },
+    "properties": {
+      "stopID": 34,
+      "stopName": "Gym. sv. Moniky",
+      "stopCity": "Prešov",
+      "passingLines": ["12"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.261692, 48.980796] },
+    "properties": {
+      "stopID": 35,
+      "stopName": "Spinea - Záturecká",
+      "stopCity": "Prešov",
+      "passingLines": ["26"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2441, 48.9789] },
+    "properties": {
+      "stopID": 36,
+      "stopName": "Pekárne",
+      "stopCity": "Prešov",
+      "passingLines": ["2", "30", "34", "42", "5", "7"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2361, 48.9972] },
+    "properties": {
+      "stopID": 37,
+      "stopName": "Floriánova",
+      "stopCity": "Prešov",
+      "passingLines": ["32"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2325, 48.9938] },
+    "properties": {
+      "stopID": 38,
+      "stopName": "Duchnovičovo n.",
+      "stopCity": "Prešov",
+      "passingLines": ["2", "34", "38", "5", "N1"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2339, 48.9835] },
+    "properties": {
+      "stopID": 39,
+      "stopName": "Pod K. baňou",
+      "stopCity": "Prešov",
+      "passingLines": ["27", "43"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2683, 48.9944] },
+    "properties": {
+      "stopID": 40,
+      "stopName": "Jurkovičova",
+      "stopCity": "Prešov",
+      "passingLines": [
+        "10",
+        "12",
+        "13",
+        "32",
+        "32A",
+        "33",
+        "34",
+        "37",
+        "38",
+        "8",
+        "N2"
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2494, 49.0024] },
+    "properties": {
+      "stopID": 41,
+      "stopName": "Vodárenská",
+      "stopCity": "Prešov",
+      "passingLines": ["27"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2393, 49.0002] },
+    "properties": {
+      "stopID": 42,
+      "stopName": "Trojica",
+      "stopCity": "Prešov",
+      "passingLines": [
+        "1",
+        "11",
+        "12",
+        "14",
+        "15",
+        "18",
+        "2",
+        "21",
+        "22",
+        "24",
+        "27",
+        "28",
+        "29",
+        "32",
+        "36",
+        "39",
+        "4",
+        "41",
+        "45",
+        "5",
+        "7",
+        "8",
+        "N2"
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2523, 49.0025] },
+    "properties": {
+      "stopID": 43,
+      "stopName": "Hviezdna",
+      "stopCity": "Prešov",
+      "passingLines": ["27"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2429, 49.002] },
+    "properties": {
+      "stopID": 44,
+      "stopName": "Vajanského",
+      "stopCity": "Prešov",
+      "passingLines": ["12", "27"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2305, 48.9934] },
+    "properties": {
+      "stopID": 45,
+      "stopName": "Ostrovček",
+      "stopCity": "Prešov",
+      "passingLines": ["15"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.264, 48.9794] },
+    "properties": {
+      "stopID": 46,
+      "stopName": "Lesnícka",
+      "stopCity": "Prešov",
+      "passingLines": [
+        "10",
+        "19",
+        "33",
+        "34",
+        "35",
+        "37",
+        "38",
+        "4",
+        "8",
+        "N1",
+        "N2"
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2296, 48.991] },
+    "properties": {
+      "stopID": 47,
+      "stopName": "Pod Kalváriou",
+      "stopCity": "Prešov",
+      "passingLines": ["15", "43"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2711, 48.992] },
+    "properties": {
+      "stopID": 48,
+      "stopName": "Vansovej",
+      "stopCity": "Prešov",
+      "passingLines": ["12", "22", "34", "36", "4", "N1", "N2"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2444, 48.9766] },
+    "properties": {
+      "stopID": 49,
+      "stopName": "Budovateľská",
+      "stopCity": "Prešov",
+      "passingLines": ["2", "30", "34", "42", "5", "7"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2455, 48.9763] },
+    "properties": {
+      "stopID": 50,
+      "stopName": "Jilemnického",
+      "stopCity": "Prešov",
+      "passingLines": ["30", "34", "42"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2292, 48.9878] },
+    "properties": {
+      "stopID": 51,
+      "stopName": "Zimný štadión",
+      "stopCity": "Prešov",
+      "passingLines": ["15", "43"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2416, 49.0028] },
+    "properties": {
+      "stopID": 52,
+      "stopName": "Duklianska",
+      "stopCity": "Prešov",
+      "passingLines": ["1", "12", "17", "21", "27", "28", "41", "43", "7"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.229, 48.9928] },
+    "properties": {
+      "stopID": 53,
+      "stopName": "Str. lesníc. škola",
+      "stopCity": "Prešov",
+      "passingLines": ["12", "15", "24", "43"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2361, 49.0009] },
+    "properties": {
+      "stopID": 54,
+      "stopName": "Poliklinika",
+      "stopCity": "Prešov",
+      "passingLines": [
+        "11",
+        "15",
+        "17",
+        "18",
+        "2",
+        "21",
+        "24",
+        "29",
+        "32",
+        "4",
+        "5",
+        "8",
+        "N2"
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2465, 49.0043] },
+    "properties": {
+      "stopID": 55,
+      "stopName": "Šafárikova",
+      "stopCity": "Prešov",
+      "passingLines": ["12", "21", "27", "43"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2295, 48.9955] },
+    "properties": {
+      "stopID": 56,
+      "stopName": "Nám. mládeže",
+      "stopCity": "Prešov",
+      "passingLines": ["15", "2", "34", "38", "N1"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.27, 48.9973] },
+    "properties": {
+      "stopID": 57,
+      "stopName": "Karpatská",
+      "stopCity": "Prešov",
+      "passingLines": [
+        "10",
+        "12",
+        "13",
+        "32",
+        "32A",
+        "33",
+        "34",
+        "37",
+        "38",
+        "8",
+        "N2"
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.273, 48.9846] },
+    "properties": {
+      "stopID": 58,
+      "stopName": "Kysucká",
+      "stopCity": "Prešov",
+      "passingLines": ["19", "44"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.227, 48.9863] },
+    "properties": {
+      "stopID": 59,
+      "stopName": "Slávičia",
+      "stopCity": "Prešov",
+      "passingLines": ["27"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2523, 48.9738] },
+    "properties": {
+      "stopID": 60,
+      "stopName": "Košická",
+      "stopCity": "Prešov",
+      "passingLines": [
+        "10",
+        "14",
+        "19",
+        "24",
+        "26",
+        "34",
+        "37",
+        "39",
+        "N1",
+        "N2"
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2665, 48.9774] },
+    "properties": {
+      "stopID": 61,
+      "stopName": "Solivarská",
+      "stopCity": "Prešov",
+      "passingLines": ["1", "46", "N1"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2262, 48.9861] },
+    "properties": {
+      "stopID": 62,
+      "stopName": "Horárska",
+      "stopCity": "Prešov",
+      "passingLines": ["15"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2281, 48.9981] },
+    "properties": {
+      "stopID": 63,
+      "stopName": "Obr. mieru",
+      "stopCity": "Prešov",
+      "passingLines": ["15", "2", "24", "34", "38", "5", "N1"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2756, 48.9936] },
+    "properties": {
+      "stopID": 64,
+      "stopName": "Pod Šalgovíkom",
+      "stopCity": "Prešov",
+      "passingLines": ["12", "22", "34", "36", "4", "N1", "N2"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2248, 48.9872] },
+    "properties": {
+      "stopID": 65,
+      "stopName": "Ku Brezinám",
+      "stopCity": "Prešov",
+      "passingLines": ["27"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2247, 48.9921] },
+    "properties": {
+      "stopID": 66,
+      "stopName": "Kollárova",
+      "stopCity": "Prešov",
+      "passingLines": ["12", "15", "24", "43"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.266275, 48.976296] },
+    "properties": {
+      "stopID": 67,
+      "stopName": "Suvorovova",
+      "stopCity": "Prešov",
+      "passingLines": ["11"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2272, 48.9981] },
+    "properties": {
+      "stopID": 68,
+      "stopName": "Centrál",
+      "stopCity": "Prešov",
+      "passingLines": ["15"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2617, 48.9741] },
+    "properties": {
+      "stopID": 69,
+      "stopName": "Lomnická",
+      "stopCity": "Prešov",
+      "passingLines": [
+        "10",
+        "19",
+        "28",
+        "33",
+        "34",
+        "35",
+        "37",
+        "39",
+        "45",
+        "N1",
+        "N2"
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2712, 48.9788] },
+    "properties": {
+      "stopID": 70,
+      "stopName": "Prameň",
+      "stopCity": "Prešov",
+      "passingLines": ["1", "46", "N1"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2743, 48.9814] },
+    "properties": {
+      "stopID": 71,
+      "stopName": "Kukučínova",
+      "stopCity": "Prešov",
+      "passingLines": ["19", "44"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.272, 49.0008] },
+    "properties": {
+      "stopID": 72,
+      "stopName": "Sibírska",
+      "stopCity": "Prešov",
+      "passingLines": ["10", "12", "13", "32", "32A", "34", "38", "8", "N2"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2234, 48.9943] },
+    "properties": {
+      "stopID": 73,
+      "stopName": "Sázavského",
+      "stopCity": "Prešov",
+      "passingLines": ["12", "15", "24", "43"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2438, 48.9718] },
+    "properties": {
+      "stopID": 74,
+      "stopName": "Pod Wilec. hôrkou",
+      "stopCity": "Prešov",
+      "passingLines": ["42"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2371, 49.0062] },
+    "properties": {
+      "stopID": 75,
+      "stopName": "Björnsonova",
+      "stopCity": "Prešov",
+      "passingLines": ["39"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2383, 49.0066] },
+    "properties": {
+      "stopID": 76,
+      "stopName": "Sabinovská",
+      "stopCity": "Prešov",
+      "passingLines": ["14", "2", "22", "39", "43", "45", "5", "N2"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2501, 49.0084] },
+    "properties": {
+      "stopID": 77,
+      "stopName": "Rázc. Kúty",
+      "stopCity": "Prešov",
+      "passingLines": ["1", "17", "21", "28", "35", "7"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2221, 48.9884] },
+    "properties": {
+      "stopID": 78,
+      "stopName": "Súľovská",
+      "stopCity": "Prešov",
+      "passingLines": ["27"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2482, 49.0086] },
+    "properties": {
+      "stopID": 79,
+      "stopName": "K Surdoku",
+      "stopCity": "Prešov",
+      "passingLines": ["41"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2749, 48.9796] },
+    "properties": {
+      "stopID": 80,
+      "stopName": "Múzeum Solivar",
+      "stopCity": "Prešov",
+      "passingLines": ["1", "46", "N1"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2585, 48.9713] },
+    "properties": {
+      "stopID": 81,
+      "stopName": "Švábska",
+      "stopCity": "Prešov",
+      "passingLines": [
+        "10",
+        "19",
+        "28",
+        "33",
+        "34",
+        "35",
+        "37",
+        "39",
+        "45",
+        "N1",
+        "N2"
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2229, 48.9971] },
+    "properties": {
+      "stopID": 82,
+      "stopName": "Októbrová",
+      "stopCity": "Prešov",
+      "passingLines": ["15"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.268871, 48.974493] },
+    "properties": {
+      "stopID": 83,
+      "stopName": "Cintorín - Solivar",
+      "stopCity": "Prešov",
+      "passingLines": ["11"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2552, 48.9705] },
+    "properties": {
+      "stopID": 84,
+      "stopName": "Chalupkova",
+      "stopCity": "Prešov",
+      "passingLines": ["10", "19", "34", "37", "39", "N1", "N2"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2211, 48.9857] },
+    "properties": {
+      "stopID": 85,
+      "stopName": "Záhrad. osada",
+      "stopCity": "Prešov",
+      "passingLines": ["15"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2333, 49.0087] },
+    "properties": {
+      "stopID": 86,
+      "stopName": "Jazdecká",
+      "stopCity": "Prešov",
+      "passingLines": ["39"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2244, 49.0016] },
+    "properties": {
+      "stopID": 87,
+      "stopName": "Clementisova",
+      "stopCity": "Prešov",
+      "passingLines": ["38", "4", "8", "N1", "N2"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2242, 49.0005] },
+    "properties": {
+      "stopID": 88,
+      "stopName": "Levočská",
+      "stopCity": "Prešov",
+      "passingLines": ["11", "17", "18", "21", "24", "29", "34"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2369, 49.0118] },
+    "properties": {
+      "stopID": 89,
+      "stopName": "Mičurinova",
+      "stopCity": "Prešov",
+      "passingLines": ["14", "2", "22", "43", "45", "5", "N2"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2474, 49.0108] },
+    "properties": {
+      "stopID": 90,
+      "stopName": "Pod Šibeňou",
+      "stopCity": "Prešov",
+      "passingLines": ["41"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.221, 49.0041] },
+    "properties": {
+      "stopID": 91,
+      "stopName": "Volgogradská",
+      "stopCity": "Prešov",
+      "passingLines": ["12", "17", "29", "34", "38", "4", "43", "8", "N1", "N2"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2219, 48.9971] },
+    "properties": {
+      "stopID": 92,
+      "stopName": "Odborárska",
+      "stopCity": "Prešov",
+      "passingLines": ["12", "15", "24", "43"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2219, 48.9971] },
+    "properties": {
+      "stopID": 93,
+      "stopName": "ZŠ Odborárska",
+      "stopCity": "Prešov",
+      "passingLines": ["21"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2263, 49.011] },
+    "properties": {
+      "stopID": 94,
+      "stopName": "Mukačevská",
+      "stopCity": "Prešov",
+      "passingLines": ["39"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2205, 48.9997] },
+    "properties": {
+      "stopID": 95,
+      "stopName": "M. Čulena",
+      "stopCity": "Prešov",
+      "passingLines": ["12", "24", "43"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2214, 49.0066] },
+    "properties": {
+      "stopID": 96,
+      "stopName": "N. Kráľ. pokoja",
+      "stopCity": "Prešov",
+      "passingLines": ["12", "17", "29", "34", "38", "4", "43", "8", "N1", "N2"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2366, 49.0155] },
+    "properties": {
+      "stopID": 97,
+      "stopName": "Pod Skalkou",
+      "stopCity": "Prešov",
+      "passingLines": ["14", "2", "22", "43", "45", "5", "N2"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.248, 49.0147] },
+    "properties": {
+      "stopID": 98,
+      "stopName": "Koryto",
+      "stopCity": "Prešov",
+      "passingLines": ["41"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2222, 49.0106] },
+    "properties": {
+      "stopID": 99,
+      "stopName": "VUKOV",
+      "stopCity": "Prešov",
+      "passingLines": [
+        "12",
+        "17",
+        "29",
+        "34",
+        "38",
+        "39",
+        "4",
+        "43",
+        "8",
+        "N1",
+        "N2"
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.257, 49.0106] },
+    "properties": {
+      "stopID": 100,
+      "stopName": "Dopravný podnik",
+      "stopCity": "Prešov",
+      "passingLines": ["1", "17", "21", "28", "35", "7"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2162, 49.0035] },
+    "properties": {
+      "stopID": 101,
+      "stopName": "Rázc. Rúrky",
+      "stopCity": "Prešov",
+      "passingLines": ["11", "21"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2154, 49.0024] },
+    "properties": {
+      "stopID": 102,
+      "stopName": "Mýto",
+      "stopCity": "Prešov",
+      "passingLines": ["18", "21"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2145, 49.0052] },
+    "properties": {
+      "stopID": 103,
+      "stopName": "Jána Béreša",
+      "stopCity": "Prešov",
+      "passingLines": ["11", "21"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2235, 49.0171] },
+    "properties": {
+      "stopID": 104,
+      "stopName": "Centrum",
+      "stopCity": "Prešov",
+      "passingLines": [
+        "12",
+        "17",
+        "29",
+        "34",
+        "38",
+        "39",
+        "4",
+        "43",
+        "8",
+        "N1",
+        "N2"
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2358, 49.0207] },
+    "properties": {
+      "stopID": 105,
+      "stopName": "Rázc. Šidlovec",
+      "stopCity": "Prešov",
+      "passingLines": ["14", "2", "22", "43", "45", "5", "N2"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2503, 49.0195] },
+    "properties": {
+      "stopID": 106,
+      "stopName": "Rybníčky",
+      "stopCity": "Prešov",
+      "passingLines": ["41"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2115, 49.0078] },
+    "properties": {
+      "stopID": 107,
+      "stopName": "Na Rúrkach",
+      "stopCity": "Prešov",
+      "passingLines": ["11", "21"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.232, 49.021] },
+    "properties": {
+      "stopID": 108,
+      "stopName": "Veterinárna nemocnica",
+      "stopCity": "Prešov",
+      "passingLines": ["12", "2", "43", "5", "N2"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2679, 49.0093] },
+    "properties": {
+      "stopID": 109,
+      "stopName": "Hinrichs",
+      "stopCity": "Ľubotice",
+      "passingLines": ["37"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2156, 48.9887] },
+    "properties": {
+      "stopID": 110,
+      "stopName": "Terchovská",
+      "stopCity": "Prešov",
+      "passingLines": ["27"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.1918, 48.9902] },
+    "properties": {
+      "stopID": 111,
+      "stopName": "Kvašná voda",
+      "stopCity": "Prešov",
+      "passingLines": ["18"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.1979, 48.9928] },
+    "properties": {
+      "stopID": 112,
+      "stopName": "Vydumanec",
+      "stopCity": "Prešov",
+      "passingLines": ["18"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2173, 48.9813] },
+    "properties": {
+      "stopID": 113,
+      "stopName": "Za Kalváriou",
+      "stopCity": "Prešov",
+      "passingLines": ["15"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2177, 48.9833] },
+    "properties": {
+      "stopID": 114,
+      "stopName": "Hôrka",
+      "stopCity": "Prešov",
+      "passingLines": ["15"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2049, 48.9992] },
+    "properties": {
+      "stopID": 115,
+      "stopName": "Rázc. Cemjata",
+      "stopCity": "Prešov",
+      "passingLines": ["18", "21"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.1793, 48.99] },
+    "properties": {
+      "stopID": 116,
+      "stopName": "Zabíjaná",
+      "stopCity": "Prešov",
+      "passingLines": ["18"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.1762, 48.9875] },
+    "properties": {
+      "stopID": 117,
+      "stopName": "Školské lesy",
+      "stopCity": "Prešov",
+      "passingLines": ["18"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.175, 48.9835] },
+    "properties": {
+      "stopID": 118,
+      "stopName": "Cemjata",
+      "stopCity": "Prešov",
+      "passingLines": ["18"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.1739, 48.98] },
+    "properties": {
+      "stopID": 119,
+      "stopName": "Čertov kameň",
+      "stopCity": "Prešov",
+      "passingLines": ["18"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.1915, 49.0018] },
+    "properties": {
+      "stopID": 120,
+      "stopName": "Telekča",
+      "stopCity": "Malý Šariš",
+      "passingLines": ["21"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.1715, 48.9768] },
+    "properties": {
+      "stopID": 121,
+      "stopName": "Chatky",
+      "stopCity": "Prešov",
+      "passingLines": ["18"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.1812, 49.0045] },
+    "properties": {
+      "stopID": 122,
+      "stopName": "Rázc. M. Šariš",
+      "stopCity": "Malý Šariš",
+      "passingLines": ["21"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.1794, 49.008] },
+    "properties": {
+      "stopID": 123,
+      "stopName": "OÚ M. Šariš",
+      "stopCity": "Malý Šariš",
+      "passingLines": ["21"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.1822, 49.0098] },
+    "properties": {
+      "stopID": 124,
+      "stopName": "Nákupné stred.",
+      "stopCity": "Malý Šariš",
+      "passingLines": ["21"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.1857, 49.0124] },
+    "properties": {
+      "stopID": 125,
+      "stopName": "Šľachtiteľská st.",
+      "stopCity": "Malý Šariš",
+      "passingLines": ["21"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2441, 48.968] },
+    "properties": {
+      "stopID": 126,
+      "stopName": "Wilecova hôrka",
+      "stopCity": "Prešov",
+      "passingLines": ["42"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2397, 48.9631] },
+    "properties": {
+      "stopID": 127,
+      "stopName": "Kamenná baňa",
+      "stopCity": "Prešov",
+      "passingLines": ["42"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2362, 48.9586] },
+    "properties": {
+      "stopID": 128,
+      "stopName": "Borkút",
+      "stopCity": "Prešov",
+      "passingLines": ["42"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.1865, 49.0149] },
+    "properties": {
+      "stopID": 129,
+      "stopName": "Malý Šariš",
+      "stopCity": "Malý Šariš",
+      "passingLines": ["21"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2831, 49.0552] },
+    "properties": {
+      "stopID": 130,
+      "stopName": "V kopci",
+      "stopCity": "Fintice",
+      "passingLines": ["21"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2866, 49.0518] },
+    "properties": {
+      "stopID": 131,
+      "stopName": "Nám.J.Kolarčíka",
+      "stopCity": "Fintice",
+      "passingLines": ["21"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.28244, 49.05675] },
+    "properties": {
+      "stopID": 132,
+      "stopName": "Pri lipe",
+      "stopCity": "Fintice",
+      "passingLines": ["21"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.285, 49.0489] },
+    "properties": {
+      "stopID": 133,
+      "stopName": "Červený mostík",
+      "stopCity": "Fintice",
+      "passingLines": ["21"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2823, 49.0582] },
+    "properties": {
+      "stopID": 134,
+      "stopName": "Fintice",
+      "stopCity": "Fintice",
+      "passingLines": ["21"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2847, 49.0467] },
+    "properties": {
+      "stopID": 135,
+      "stopName": "Ihrisko",
+      "stopCity": "Fintice",
+      "passingLines": ["21"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2835, 49.0402] },
+    "properties": {
+      "stopID": 136,
+      "stopName": "Gribľovec",
+      "stopCity": "Fintice",
+      "passingLines": ["21"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2822, 49.0371] },
+    "properties": {
+      "stopID": 137,
+      "stopName": "Žel. priecestie",
+      "stopCity": "Prešov",
+      "passingLines": ["21"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2804, 49.0319] },
+    "properties": {
+      "stopID": 138,
+      "stopName": "Išľa",
+      "stopCity": "Prešov",
+      "passingLines": ["21"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2797, 49.0277] },
+    "properties": {
+      "stopID": 139,
+      "stopName": "Fintická",
+      "stopCity": "Prešov",
+      "passingLines": ["21"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2578, 49.0337] },
+    "properties": {
+      "stopID": 140,
+      "stopName": "Surdok",
+      "stopCity": "Prešov",
+      "passingLines": ["41"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2793, 49.0251] },
+    "properties": {
+      "stopID": 141,
+      "stopName": "Nová",
+      "stopCity": "Prešov",
+      "passingLines": ["21"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2866, 49.0249] },
+    "properties": {
+      "stopID": 142,
+      "stopName": "N. Šebastová",
+      "stopCity": "Prešov",
+      "passingLines": ["1", "13", "37", "N2"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2558, 49.0307] },
+    "properties": {
+      "stopID": 143,
+      "stopName": "Pred Surdokom",
+      "stopCity": "Prešov",
+      "passingLines": ["41"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2671, 49.0251] },
+    "properties": {
+      "stopID": 144,
+      "stopName": "Širpo",
+      "stopCity": "Prešov",
+      "passingLines": ["17", "28", "33", "35", "7"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2809, 49.023] },
+    "properties": {
+      "stopID": 145,
+      "stopName": "Pažica",
+      "stopCity": "Prešov",
+      "passingLines": ["1", "13", "37", "N2"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2481, 49.0329] },
+    "properties": {
+      "stopID": 146,
+      "stopName": "Šidlovec",
+      "stopCity": "Prešov",
+      "passingLines": ["12", "22"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2579, 49.0268] },
+    "properties": {
+      "stopID": 147,
+      "stopName": "Plachty",
+      "stopCity": "Prešov",
+      "passingLines": ["41"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.286, 49.0221] },
+    "properties": {
+      "stopID": 148,
+      "stopName": "Limbová",
+      "stopCity": "Prešov",
+      "passingLines": ["13"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.286, 49.0221] },
+    "properties": {
+      "stopID": 149,
+      "stopName": "Gen. Ambruša",
+      "stopCity": "Prešov",
+      "passingLines": ["13"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2665, 49.0229] },
+    "properties": {
+      "stopID": 150,
+      "stopName": "Družstevná",
+      "stopCity": "Prešov",
+      "passingLines": ["17", "28", "33", "35", "7"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2795, 49.021] },
+    "properties": {
+      "stopID": 151,
+      "stopName": "Slánska",
+      "stopCity": "Prešov",
+      "passingLines": ["13"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2765, 49.0212] },
+    "properties": {
+      "stopID": 152,
+      "stopName": "Vranovská",
+      "stopCity": "Prešov",
+      "passingLines": ["1", "21", "28", "37", "N2"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2323, 49.0535] },
+    "properties": {
+      "stopID": 153,
+      "stopName": "Husí hrb",
+      "stopCity": "Kanaš",
+      "passingLines": ["14", "45"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2325, 49.0568] },
+    "properties": {
+      "stopID": 154,
+      "stopName": "Pri kostole",
+      "stopCity": "Kanaš",
+      "passingLines": ["14", "45"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2847, 49.0196] },
+    "properties": {
+      "stopID": 155,
+      "stopName": "Slávik",
+      "stopCity": "Prešov",
+      "passingLines": ["13"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2418, 49.033] },
+    "properties": {
+      "stopID": 156,
+      "stopName": "Stavbárska",
+      "stopCity": "Prešov",
+      "passingLines": ["12", "22"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2767, 49.0196] },
+    "properties": {
+      "stopID": 157,
+      "stopName": "Šebastovská",
+      "stopCity": "Prešov",
+      "passingLines": ["13", "28"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2532, 49.0256] },
+    "properties": {
+      "stopID": 158,
+      "stopName": "Za Kútami",
+      "stopCity": "Prešov",
+      "passingLines": ["41"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2427, 49.0321] },
+    "properties": {
+      "stopID": 159,
+      "stopName": "Jahodová",
+      "stopCity": "Prešov",
+      "passingLines": ["12", "22"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2931, 49.0193] },
+    "properties": {
+      "stopID": 160,
+      "stopName": "Herlianska",
+      "stopCity": "Prešov",
+      "passingLines": ["13"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.266, 49.0202] },
+    "properties": {
+      "stopID": 161,
+      "stopName": "Strojnícka",
+      "stopCity": "Prešov",
+      "passingLines": ["17", "28", "33", "35", "7"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2304, 49.0583] },
+    "properties": {
+      "stopID": 162,
+      "stopName": "Medzi jarkami",
+      "stopCity": "Kanaš",
+      "passingLines": ["14", "45"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2755, 49.0179] },
+    "properties": {
+      "stopID": 163,
+      "stopName": "Bardejovská",
+      "stopCity": "Ľubotice",
+      "passingLines": ["13", "28"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.272, 49.0181] },
+    "properties": {
+      "stopID": 164,
+      "stopName": "Skleník",
+      "stopCity": "Prešov",
+      "passingLines": ["1", "21", "28", "37", "N2"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2774, 49.0174] },
+    "properties": {
+      "stopID": 165,
+      "stopName": "Strážnická",
+      "stopCity": "Ľubotice",
+      "passingLines": ["13", "28"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2774, 49.0174] },
+    "properties": {
+      "stopID": 166,
+      "stopName": "ZŠ Strážnická",
+      "stopCity": "Prešov",
+      "passingLines": ["13"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2404, 49.03] },
+    "properties": {
+      "stopID": 167,
+      "stopName": "Šidlovská",
+      "stopCity": "Prešov",
+      "passingLines": ["12", "22"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2526, 49.0225] },
+    "properties": {
+      "stopID": 168,
+      "stopName": "Kúty",
+      "stopCity": "Prešov",
+      "passingLines": ["41"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2303, 49.0659] },
+    "properties": {
+      "stopID": 169,
+      "stopName": "Kanaš - Stráže",
+      "stopCity": "Kanaš",
+      "passingLines": ["14", "45"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2281, 49.0613] },
+    "properties": {
+      "stopID": 170,
+      "stopName": "Stará škola",
+      "stopCity": "Kanaš",
+      "passingLines": ["14", "45"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2661, 49.0171] },
+    "properties": {
+      "stopID": 171,
+      "stopName": "Ľubochnianska",
+      "stopCity": "Prešov",
+      "passingLines": ["17", "28", "33", "35", "7"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2354, 49.031] },
+    "properties": {
+      "stopID": 172,
+      "stopName": "Dúbravská",
+      "stopCity": "Prešov",
+      "passingLines": ["12"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2712, 49.0149] },
+    "properties": {
+      "stopID": 173,
+      "stopName": "Domašská",
+      "stopCity": "Ľubotice",
+      "passingLines": ["13", "28"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2241, 49.0478] },
+    "properties": {
+      "stopID": 174,
+      "stopName": "Kozí rožok",
+      "stopCity": "Kanaš",
+      "passingLines": ["14", "45"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2767, 49.0134] },
+    "properties": {
+      "stopID": 175,
+      "stopName": "J. Kostru",
+      "stopCity": "Ľubotice",
+      "passingLines": ["13", "28"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2808, 49.0132] },
+    "properties": {
+      "stopID": 176,
+      "stopName": "Korabinského",
+      "stopCity": "Ľubotice",
+      "passingLines": ["13", "28"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2349, 49.0287] },
+    "properties": {
+      "stopID": 177,
+      "stopName": "Pri kaplnke",
+      "stopCity": "Prešov",
+      "passingLines": ["12"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2377, 49.0248] },
+    "properties": {
+      "stopID": 178,
+      "stopName": "Jánošíkova",
+      "stopCity": "Prešov",
+      "passingLines": ["12", "22"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2795, 49.0121] },
+    "properties": {
+      "stopID": 179,
+      "stopName": "Šalgovícka",
+      "stopCity": "Ľubotice",
+      "passingLines": ["13", "28"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.3163, 49.0181] },
+    "properties": {
+      "stopID": 180,
+      "stopName": "Kamence",
+      "stopCity": "Vyšná Šebastová",
+      "passingLines": ["13"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2736, 49.0117] },
+    "properties": {
+      "stopID": 181,
+      "stopName": "Ľubotice",
+      "stopCity": "Ľubotice",
+      "passingLines": ["13", "28"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2669, 49.0126] },
+    "properties": {
+      "stopID": 182,
+      "stopName": "Pod nadjazdom",
+      "stopCity": "Ľubotice",
+      "passingLines": ["33", "37", "N2"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2703, 49.0118] },
+    "properties": {
+      "stopID": 183,
+      "stopName": "Kalinčiakova",
+      "stopCity": "Ľubotice",
+      "passingLines": ["13", "28"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.3288, 49.0231] },
+    "properties": {
+      "stopID": 184,
+      "stopName": "Kapanoš",
+      "stopCity": "Vyšná Šebastová",
+      "passingLines": ["13"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2675, 49.0117] },
+    "properties": {
+      "stopID": 185,
+      "stopName": "Nižnianska",
+      "stopCity": "Ľubotice",
+      "passingLines": ["13", "28"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.33273, 49.02485] },
+    "properties": {
+      "stopID": 186,
+      "stopName": "Severná - Kostol",
+      "stopCity": "Vyšná Šebastová",
+      "passingLines": ["13"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2321, 49.0249] },
+    "properties": {
+      "stopID": 187,
+      "stopName": "Dúbrava",
+      "stopCity": "Prešov",
+      "passingLines": ["12", "14", "2", "45", "5"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.3204, 49.0168] },
+    "properties": {
+      "stopID": 188,
+      "stopName": "Rázc. V. Šebastová",
+      "stopCity": "Vyšná Šebastová",
+      "passingLines": ["13"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2411, 48.9574] },
+    "properties": {
+      "stopID": 189,
+      "stopName": "Priecestie",
+      "stopCity": "Haniska",
+      "passingLines": ["24"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2563, 48.9582] },
+    "properties": {
+      "stopID": 190,
+      "stopName": "Hydinárske záv.",
+      "stopCity": "Prešov",
+      "passingLines": ["14", "26"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2407, 48.9556] },
+    "properties": {
+      "stopID": 191,
+      "stopName": "Lemešianska",
+      "stopCity": "Haniska",
+      "passingLines": ["24"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2568, 48.9593] },
+    "properties": {
+      "stopID": 192,
+      "stopName": "Petrovanská",
+      "stopCity": "Prešov",
+      "passingLines": ["14"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2412, 48.9533] },
+    "properties": {
+      "stopID": 193,
+      "stopName": "Haniska",
+      "stopCity": "Haniska",
+      "passingLines": ["24"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2469, 48.965] },
+    "properties": {
+      "stopID": 194,
+      "stopName": "Čistička",
+      "stopCity": "Prešov",
+      "passingLines": ["24"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2586, 48.9621] },
+    "properties": {
+      "stopID": 195,
+      "stopName": "Jelšová",
+      "stopCity": "Prešov",
+      "passingLines": ["28", "33", "35", "45"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2601, 48.9605] },
+    "properties": {
+      "stopID": 196,
+      "stopName": "Delňa",
+      "stopCity": "Prešov",
+      "passingLines": ["28", "33", "35", "45"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2568, 48.9644] },
+    "properties": {
+      "stopID": 197,
+      "stopName": "Jesenná",
+      "stopCity": "Prešov",
+      "passingLines": ["28", "33", "35", "45"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2496, 48.9672] },
+    "properties": {
+      "stopID": 198,
+      "stopName": "Gemor",
+      "stopCity": "Prešov",
+      "passingLines": ["24"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2625, 48.9509] },
+    "properties": {
+      "stopID": 199,
+      "stopName": "Vysielač",
+      "stopCity": "Prešov",
+      "passingLines": ["14"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.252, 48.9691] },
+    "properties": {
+      "stopID": 200,
+      "stopName": "ZVL",
+      "stopCity": "Prešov",
+      "passingLines": ["24"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2675, 48.9561] },
+    "properties": {
+      "stopID": 201,
+      "stopName": "Priemyselný park Záborské",
+      "stopCity": "Prešov",
+      "passingLines": ["14"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.257, 48.9691] },
+    "properties": {
+      "stopID": 202,
+      "stopName": "Pionierska",
+      "stopCity": "Prešov",
+      "passingLines": ["28", "33", "35", "45"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.274493, 48.973197] },
+    "properties": {
+      "stopID": 203,
+      "stopName": "Na brehu",
+      "stopCity": "Prešov",
+      "passingLines": ["11"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.278066, 48.973979] },
+    "properties": {
+      "stopID": 204,
+      "stopName": "Zlatobanská",
+      "stopCity": "Prešov",
+      "passingLines": ["11"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2879, 48.947] },
+    "properties": {
+      "stopID": 205,
+      "stopName": "Rázc. Záborské",
+      "stopCity": "Záborské",
+      "passingLines": ["14"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2769, 48.9783] },
+    "properties": {
+      "stopID": 206,
+      "stopName": "Solivar",
+      "stopCity": "Prešov",
+      "passingLines": ["1", "11", "19", "44", "46", "N1"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2894, 48.9451] },
+    "properties": {
+      "stopID": 207,
+      "stopName": "Záborské - stred",
+      "stopCity": "Záborské",
+      "passingLines": ["14"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2878, 48.9424] },
+    "properties": {
+      "stopID": 208,
+      "stopName": "Záborské",
+      "stopCity": "Záborské",
+      "passingLines": ["14"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2796, 48.9821] },
+    "properties": {
+      "stopID": 209,
+      "stopName": "Soľnobanská",
+      "stopCity": "Prešov",
+      "passingLines": ["46"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.289, 48.9812] },
+    "properties": {
+      "stopID": 210,
+      "stopName": "Záhradky",
+      "stopCity": "Prešov",
+      "passingLines": ["46"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2847, 48.9965] },
+    "properties": {
+      "stopID": 211,
+      "stopName": "Hruny",
+      "stopCity": "Prešov",
+      "passingLines": ["22"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2847, 48.9965] },
+    "properties": {
+      "stopID": 212,
+      "stopName": "Kamenná",
+      "stopCity": "Prešov",
+      "passingLines": ["22"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2818, 48.9949] },
+    "properties": {
+      "stopID": 213,
+      "stopName": "Sekčovská",
+      "stopCity": "Prešov",
+      "passingLines": ["22"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2874, 48.9969] },
+    "properties": {
+      "stopID": 214,
+      "stopName": "Šalgovík",
+      "stopCity": "Prešov",
+      "passingLines": ["22"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2885, 48.9922] },
+    "properties": {
+      "stopID": 215,
+      "stopName": "Labutia",
+      "stopCity": "Prešov",
+      "passingLines": ["22"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.1943, 49.0337] },
+    "properties": {
+      "stopID": 216,
+      "stopName": "Tulčícka",
+      "stopCity": "Veľký Šariš",
+      "passingLines": ["21"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2248, 49.0209] },
+    "properties": {
+      "stopID": 217,
+      "stopName": "Prostějovská",
+      "stopCity": "Prešov",
+      "passingLines": [
+        "12",
+        "17",
+        "29",
+        "34",
+        "38",
+        "39",
+        "4",
+        "43",
+        "8",
+        "N1",
+        "N2"
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.1713, 48.9552] },
+    "properties": {
+      "stopID": 218,
+      "stopName": "Bzenov",
+      "stopCity": "Bzenov",
+      "passingLines": ["18"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2191, 49.0288] },
+    "properties": {
+      "stopID": 219,
+      "stopName": "Bikoš",
+      "stopCity": "Veľký Šariš",
+      "passingLines": ["14", "45"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2299, 49.0236] },
+    "properties": {
+      "stopID": 220,
+      "stopName": "Bajkalská",
+      "stopCity": "Prešov",
+      "passingLines": ["12", "2", "43", "5"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.229, 49.0235] },
+    "properties": {
+      "stopID": 221,
+      "stopName": "Sídlisko III",
+      "stopCity": "Prešov",
+      "passingLines": ["12", "17", "29", "34", "38", "39", "4", "8", "N1", "N2"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.20268, 49.04425] },
+    "properties": {
+      "stopID": 222,
+      "stopName": "Staničná",
+      "stopCity": "Veľký Šariš",
+      "passingLines": ["14", "45"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2089, 49.0434] },
+    "properties": {
+      "stopID": 223,
+      "stopName": "Pivovar",
+      "stopCity": "Veľký Šariš",
+      "passingLines": ["14", "45"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.211, 49.0438] },
+    "properties": {
+      "stopID": 224,
+      "stopName": "Pod Sordokom",
+      "stopCity": "Veľký Šariš",
+      "passingLines": ["14", "45"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.211, 49.0438] },
+    "properties": {
+      "stopID": 225,
+      "stopName": "Sordok",
+      "stopCity": "Kanaš",
+      "passingLines": ["14"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.2131, 49.0409] },
+    "properties": {
+      "stopID": 226,
+      "stopName": "Šariš park",
+      "stopCity": "Veľký Šariš",
+      "passingLines": ["14", "45"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.1993, 49.0392] },
+    "properties": {
+      "stopID": 227,
+      "stopName": "Medulienka",
+      "stopCity": "Veľký Šariš",
+      "passingLines": ["14", "45"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.194, 49.0392] },
+    "properties": {
+      "stopID": 228,
+      "stopName": "Nám. sv. Jakuba",
+      "stopCity": "Veľký Šariš",
+      "passingLines": ["14", "45"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.1888, 49.0421] },
+    "properties": {
+      "stopID": 229,
+      "stopName": "Veľký Šariš",
+      "stopCity": "Veľký Šariš",
+      "passingLines": ["14", "21", "45"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.1888, 49.0421] },
+    "properties": {
+      "stopID": 230,
+      "stopName": "ZŠ Veľký Šariš",
+      "stopCity": "Veľký Šariš",
+      "passingLines": ["14"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.1908, 49.04] },
+    "properties": {
+      "stopID": 231,
+      "stopName": "Varoš",
+      "stopCity": "Veľký Šariš",
+      "passingLines": ["14", "21", "45"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.3261, 49.0148] },
+    "properties": {
+      "stopID": 232,
+      "stopName": "OcÚ V. Šebastová",
+      "stopCity": "Vyšná Šebastová",
+      "passingLines": ["13"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.3313, 49.012] },
+    "properties": {
+      "stopID": 233,
+      "stopName": "Pod Maglovcom",
+      "stopCity": "Vyšná Šebastová",
+      "passingLines": ["13"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.3335, 49.0106] },
+    "properties": {
+      "stopID": 234,
+      "stopName": "Vyšná Šebastová",
+      "stopCity": "Vyšná Šebastová",
+      "passingLines": ["13"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.3368, 49.0242] },
+    "properties": {
+      "stopID": 235,
+      "stopName": "Severná",
+      "stopCity": "Vyšná Šebastová",
+      "passingLines": ["13"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.3118, 48.99] },
+    "properties": {
+      "stopID": 236,
+      "stopName": "Teriakovce",
+      "stopCity": "Teriakovce",
+      "passingLines": ["22"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.3088, 48.9906] },
+    "properties": {
+      "stopID": 237,
+      "stopName": "OÚ Teriakovce",
+      "stopCity": "Teriakovce",
+      "passingLines": ["22"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.3046, 48.9908] },
+    "properties": {
+      "stopID": 238,
+      "stopName": "Na Kruhu",
+      "stopCity": "Teriakovce",
+      "passingLines": ["22"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.3021, 48.9911] },
+    "properties": {
+      "stopID": 239,
+      "stopName": "Rázc. Teriakovce",
+      "stopCity": "Teriakovce",
+      "passingLines": ["22"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.3277, 48.9792] },
+    "properties": {
+      "stopID": 240,
+      "stopName": "Hulica",
+      "stopCity": "Ruská Nová Ves",
+      "passingLines": ["46"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.3243, 48.9778] },
+    "properties": {
+      "stopID": 241,
+      "stopName": "Na Záhumní",
+      "stopCity": "Ruská Nová Ves",
+      "passingLines": ["46"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.3335, 48.9781] },
+    "properties": {
+      "stopID": 242,
+      "stopName": "Ruská Nová Ves",
+      "stopCity": "Ruská Nová Ves",
+      "passingLines": ["46"]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.3191, 48.9778] },
+    "properties": {
+      "stopID": 243,
+      "stopName": "Pri zámočku",
+      "stopCity": "Ruská Nová Ves",
+      "passingLines": ["46"]
+    }
+  }
+]

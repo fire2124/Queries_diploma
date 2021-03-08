@@ -1,0 +1,20 @@
+{
+    "type": "FeatureCollection",
+    "name": "isOnStop",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.23884,
+                    49.14742
+                ]
+            },
+            "properties": {
+                "Current_Stop": "Geraltov Závadka",
+                "seconds": 44
+            }
+        }
+    ]
+}
