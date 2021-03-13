@@ -1,9 +1,11 @@
 const { Client } = require("@elastic/elasticsearch");
 const ElasticsearchScrollStream = require("elasticsearch-scroll-stream");
 const fs = require("fs");
-const elasticsearch_client = new Client({ node: "http://localhost:9200" });
+const { apiNodeUrl }  = require("../../config.json")
+const elasticsearch_client = new Client({ node: apiNodeUrl });
 let date = new Date();
 const _ = require("lodash");
+const path = "././../Express_server/Data/queryResult"
 let lenghtOfElastic;
 
 String.prototype.replaceAll = function (find, replace) {
@@ -45,7 +47,7 @@ function miliseconds(week, day, hrs, min, sec) {
     );
 }
 
-function getTraffic( time) {
+function getTraffic(time, type) {
     const es_stream = new ElasticsearchScrollStream(elasticsearch_client, {
         index: "traffic_situation",
         scroll: "10m",
@@ -84,8 +86,6 @@ function getTraffic( time) {
 
     es_stream.on("end", async function () {
         //Filter
-        fs.writeFileSync(`./Data/Elastic_query/traffic/finalResult.json`, JSON.stringify(finalResult));
-
         let filteredResult = finalResult.reduce((acc, current) => {
             let x = acc.find(
                 (item) =>
@@ -97,26 +97,44 @@ function getTraffic( time) {
                 return acc;
             }
         }, []);
-        let count = _.countBy(finalResult,"properties.title");
+
+        let count = _.countBy(finalResult, "properties.description");
         let array = []
-        Object.keys(count).forEach(function(key) {
+        Object.keys(count).forEach(function (key) {
             //console.log(key, count[key]);
             let obj = {}
-            obj.title =key
-            obj.count = count[key]
+            obj.description = key
+            obj.count_of_obstacles = count[key]
             array.push(obj)
-          });
+        });
 
-        filteredResult.map(e=>{
-            array.map(x=>{
-                if(e.properties.title === x.title) e.properties.count = x.count          
-            })  
+        filteredResult.map(e => {
+            array.map(x => {
+                if (e.properties.title === x.title)
+                    e.properties.count_of_obstacles = x.count_of_obstacles
+            })
         })
-        let obj ={}
+        let obj = {}
         obj.type = "FeatureCollection"
         obj.name = "elastic_traffic"
         obj.features = filteredResult
-        fs.writeFileSync(`./Data/Elastic_query/traffic/filteredResult.json`, JSON.stringify(obj));
+        if (time.minutes == 15)
+
+            fs.writeFileSync(`${path}/${type}_15minutes.json`, JSON.stringify(obj));
+        else if (time.hours == 1)
+            fs.writeFileSync(`${path}/${type}_1hour.json`, JSON.stringify(obj));
+        else if (time.hours == 3)
+            fs.writeFileSync(`${path}/${type}_3hours.json`, JSON.stringify(obj));
+        else if (time.hours == 4 && new Date().getHours() <= 12)
+            fs.writeFileSync(`${path}/${type}_5-9.json`, JSON.stringify(obj));
+        else if (time.hours == 4 && new Date().getHours() > 12)
+            fs.writeFileSync(`${path}/${type}_14-18.json`, JSON.stringify(obj));
+        else if (time.day == 1)
+            fs.writeFileSync(`${path}/${type}_1day.json`, JSON.stringify(obj));
+        else if (time.week == 1)
+            fs.writeFileSync(`${path}/${type}_1week.json`, JSON.stringify(obj));
+        else if (time.week == 4)
+            fs.writeFileSync(`${path}/${type}_1month.json`, JSON.stringify(obj));
     })
 
     es_stream.on("error", function (err) {
@@ -124,11 +142,4 @@ function getTraffic( time) {
     });
 }
 
-let hours = 0;
-let minutes = 0;
-let sec = 0;
-let week = 0;
-let day = 3;
-const countOccurrences = arr => arr.reduce((prev, curr) => (prev[curr] = ++prev[curr] || 1, prev), {});
-
-getTraffic({ week, day, hours, minutes, sec })
+module.exports.getTraffic = getTraffic

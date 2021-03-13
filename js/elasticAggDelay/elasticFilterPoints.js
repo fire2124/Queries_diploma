@@ -1,5 +1,3 @@
-const { Client } = require("@elastic/elasticsearch");
-const elasticsearch_client = new Client({ node: "http://localhost:9200" });
 const fs = require("fs");
 const geolib = require('geolib');
 const _ = require('lodash');

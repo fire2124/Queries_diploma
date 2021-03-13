@@ -1,8 +1,8 @@
 const { Client } = require("@elastic/elasticsearch");
 const ElasticsearchScrollStream = require("elasticsearch-scroll-stream");
 const fs = require("fs");
-const elasticsearch_client = new Client({ node: "http://localhost:9200" });
-let date = new Date();
+const { apiNodeUrl }  = require("../../config.json")
+const elasticsearch_client = new Client({ node: apiNodeUrl });
 let lenghtOfElastic;
 
 //get lenght of elastic index

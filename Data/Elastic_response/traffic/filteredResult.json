@@ -1,0 +1,569 @@
+{
+    "type": "FeatureCollection",
+    "name": "elastic_traffic",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.439433154298868,
+                    49.04630065229088
+                ]
+            },
+            "properties": {
+                "region_ID": 7,
+                "region_name": "Prešovský kraj",
+                "Type": "Traffic",
+                "district_ID": 713,
+                "district_Name": "Vranov nad Topľou",
+                "district_AreaLevel": 1,
+                "delaySeconds": 0,
+                "city": "Vranov nad Topľou",
+                "street": "Nemocničná",
+                "category_Code": "ZD7",
+                "category_Name": "Dopravná situácia",
+                "status_Code": "E0010",
+                "status_Name": "Oznamuje polícia",
+                "title": "Rekonštrukcia cesty I/18 a I/21",
+                "description": "Stavba: Rekonštrukcia cesty I/18 a I/21 Petič - Hanušovce n/T. Uzávierka: čiastočná. Doprava riadená dočasným dopravným značením za pomoci svetelnej signalizácie. Rozhodnutie OU pre CD a PK Prešov: OU-PO-OCDPK-2020/027104-002 Povolenie OU pre CD a PK Prešov: OU-PO-OCDPK-2020/026997-002",
+                "houseNoFirst": 578,
+                "houseNoSecond": 4,
+                "Current_Time": 1612179475259,
+                "count": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        20.670374196169607,
+                        48.70539285162224
+                    ],
+                    [
+                        20.666659392759392,
+                        48.70529937331029
+                    ],
+                    [
+                        20.66648871285541,
+                        48.70526380366792
+                    ],
+                    [
+                        20.666398881326998,
+                        48.705180807737946
+                    ],
+                    [
+                        20.666452780244047,
+                        48.705091883375374
+                    ],
+                    [
+                        20.667970933074205,
+                        48.70454647718106
+                    ],
+                    [
+                        20.6680338151441,
+                        48.70448719354293
+                    ],
+                    [
+                        20.667997882532735,
+                        48.70442790983495
+                    ],
+                    [
+                        20.667899067851476,
+                        48.704398267954765
+                    ],
+                    [
+                        20.665213105151963,
+                        48.70465911590114
+                    ],
+                    [
+                        20.66416207626954,
+                        48.70471247099635
+                    ],
+                    [
+                        20.662527142452443,
+                        48.70463540250733
+                    ],
+                    [
+                        20.66117068637342,
+                        48.7043093422095
+                    ],
+                    [
+                        20.660622714050113,
+                        48.70410777660516
+                    ],
+                    [
+                        20.65995352806748,
+                        48.703539543912775
+                    ],
+                    [
+                        20.65964355039042,
+                        48.70320072139559
+                    ],
+                    [
+                        20.65949981994496,
+                        48.70314736469771
+                    ],
+                    [
+                        20.659275241123932,
+                        48.70326000654912
+                    ],
+                    [
+                        20.659149476984155,
+                        48.70483103767206
+                    ],
+                    [
+                        20.658484723673908,
+                        48.70534087119462
+                    ],
+                    [
+                        20.65830506061708,
+                        48.705595786019074
+                    ],
+                    [
+                        20.658188279630142,
+                        48.70566099658072
+                    ],
+                    [
+                        20.658242178547194,
+                        48.70526380366792
+                    ],
+                    [
+                        20.65827811115856,
+                        48.70498517393288
+                    ],
+                    [
+                        20.657990650267642,
+                        48.70413741865644
+                    ],
+                    [
+                        20.657345516047005,
+                        48.703281959889274
+                    ],
+                    [
+                        20.65702046976079,
+                        48.7028509375683
+                    ],
+                    [
+                        20.656499446896003,
+                        48.702341078821796
+                    ],
+                    [
+                        20.656167070240876,
+                        48.70180750018413
+                    ],
+                    [
+                        20.656149103935196,
+                        48.70133320331303
+                    ],
+                    [
+                        20.65594249141985,
+                        48.70129763086752
+                    ],
+                    [
+                        20.655717912598817,
+                        48.70167706899012
+                    ],
+                    [
+                        20.655744862057343,
+                        48.702370721913596
+                    ],
+                    [
+                        20.655484350624945,
+                        48.703277792081565
+                    ],
+                    [
+                        20.654972310913,
+                        48.70404849245025
+                    ],
+                    [
+                        20.654406372284004,
+                        48.70465318755374
+                    ],
+                    [
+                        20.653912298877735,
+                        48.705702494166864
+                    ],
+                    [
+                        20.654487220659572,
+                        48.70767655408946
+                    ],
+                    [
+                        20.654118911393084,
+                        48.70743350584673
+                    ],
+                    [
+                        20.652654657479967,
+                        48.70640794789587
+                    ],
+                    [
+                        20.65168423429431,
+                        48.70499304115247
+                    ],
+                    [
+                        20.651127521496967,
+                        48.704001065076056
+                    ],
+                    [
+                        20.650669380702066,
+                        48.70264343753892
+                    ],
+                    [
+                        20.65019327360148,
+                        48.70225807807189
+                    ],
+                    [
+                        20.64970818334806,
+                        48.702175077185125
+                    ]
+                ]
+            },
+            "properties": {
+                "region_ID": 8,
+                "region_name": "Košický kraj",
+                "Type": "Traffic",
+                "district_ID": 810,
+                "district_Name": "Spišská Nová Ves",
+                "district_AreaLevel": 1,
+                "delaySeconds": 0,
+                "category_Code": "ZD1",
+                "category_Name": "Neprejazdná cesta",
+                "status_Code": "E0010",
+                "status_Name": "Oznamuje polícia",
+                "title": "uzávierka cesty II/549 za Úhorná smer RV",
+                "description": "Uzávierka cesty II/549 v úseku za obcou Úhorná po okr. hr. GL/RV z dôvodu nevykonávania zimnej údržby predmetnej cesty. Uzávera vyznačená dopravným značením.",
+                "Current_Time": 1612179775299,
+                "count": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.241024159308683,
+                        48.99498738003773
+                    ],
+                    [
+                        21.2406808365548,
+                        48.99525487872859
+                    ],
+                    [
+                        21.240069292899456,
+                        48.995620927240985
+                    ],
+                    [
+                        21.239457749244114,
+                        48.996148877088686
+                    ],
+                    [
+                        21.239017866965707,
+                        48.996641625231504
+                    ],
+                    [
+                        21.2382668484416,
+                        48.99746520767391
+                    ],
+                    [
+                        21.237859152671373,
+                        48.99821838653359
+                    ],
+                    [
+                        21.237676762458378,
+                        48.998873009375494
+                    ],
+                    [
+                        21.237644575950203,
+                        48.99935165289
+                    ],
+                    [
+                        21.237859152671373,
+                        48.99970359371618
+                    ],
+                    [
+                        21.23820247542525,
+                        48.9999077182559
+                    ],
+                    [
+                        21.23886766326089,
+                        49.0000273770799
+                    ],
+                    [
+                        21.23924317252294,
+                        49.00007664827682
+                    ],
+                    [
+                        21.23932900321141,
+                        49.00013999688694
+                    ]
+                ]
+            },
+            "properties": {
+                "region_ID": 7,
+                "region_name": "Prešovský kraj",
+                "Type": "Traffic",
+                "district_ID": 707,
+                "district_Name": "Prešov",
+                "district_AreaLevel": 1,
+                "delaySeconds": 0,
+                "category_Code": "ZD1",
+                "category_Name": "Neprejazdná cesta",
+                "status_Code": "E0010",
+                "status_Name": "Oznamuje polícia",
+                "title": "Jarková ulica  Prešov",
+                "description": "Rekonštrukcia miestnej komunikácie ulice Jarkovej v meste Prešov.",
+                "Current_Time": 1612179775299,
+                "count": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.33214423160119,
+                        49.042683597197794
+                    ],
+                    [
+                        21.3368649194674,
+                        49.044315160471676
+                    ],
+                    [
+                        21.340298147006454,
+                        49.04521531039884
+                    ],
+                    [
+                        21.343645543857036,
+                        49.04510279254902
+                    ],
+                    [
+                        21.35059782962363,
+                        49.04386507939782
+                    ],
+                    [
+                        21.354288549228112,
+                        49.04330247232708
+                    ],
+                    [
+                        21.359438390536706,
+                        49.04386507939782
+                    ],
+                    [
+                        21.362442464633375,
+                        49.04487775608561
+                    ],
+                    [
+                        21.3649315545992,
+                        49.04532782799405
+                    ],
+                    [
+                        21.369308919711496,
+                        49.04470897806974
+                    ],
+                    [
+                        21.37368628482379,
+                        49.04397760004818
+                    ],
+                    [
+                        21.377548665805236,
+                        49.04437142031949
+                    ],
+                    [
+                        21.38029524783648,
+                        49.04465271860382
+                    ],
+                    [
+                        21.382870168490772,
+                        49.044315160471676
+                    ],
+                    [
+                        21.38493010501421,
+                        49.04386507939782
+                    ]
+                ]
+            },
+            "properties": {
+                "region_ID": 7,
+                "region_name": "Prešovský kraj",
+                "Type": "Traffic",
+                "district_ID": 707,
+                "district_Name": "Prešov",
+                "district_AreaLevel": 1,
+                "delaySeconds": 0,
+                "category_Code": "ZD3",
+                "category_Name": "Spomalená premávka",
+                "status_Code": "E0010",
+                "status_Name": "Oznamuje polícia",
+                "title": "Rekonštrukcia cesty I/18 Lipníky",
+                "description": "Rekonštrukcia cesty I/18 Kapušany - Nemcovce.",
+                "Current_Time": 1612179775299,
+                "count": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        20.874477880799365,
+                        49.26612584281035
+                    ],
+                    [
+                        20.87610866388047,
+                        49.26364740372116
+                    ]
+                ]
+            },
+            "properties": {
+                "region_ID": 7,
+                "region_name": "Prešovský kraj",
+                "Type": "Traffic",
+                "district_ID": 710,
+                "district_Name": "Stará Ľubovňa",
+                "district_AreaLevel": 1,
+                "delaySeconds": 0,
+                "category_Code": "ZD2",
+                "category_Name": "Neprejazdná cesta v jednom smere",
+                "status_Code": "E0010",
+                "status_Name": "Oznamuje polícia",
+                "title": "čiastočná uzávierka Stará Ľubovňa",
+                "description": "čiastočná uzávierka cesty č. I/68 v km 34,310 - 34,610, čiže v dĺžke 300 m, v intraviláne obce Ľubotín z dôvodu realizácie stavby\"ČOV a kanalizácia, I. a II. etapa Ľubotín Vodovod\". Prejazdný profil bude zúžený o jeden jazdný pruh, doprava bude vedená v pravom jazdnom pruhu. Pracovisko bude označené prenosným dopravným značením a svetelnou signalizáciou. Rozhodnutie CSO č.:OU-PO-OCDPK-2020 I 023290-02.",
+                "Current_Time": 1612179475259,
+                "count": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        20.555801227767173,
+                        48.944002970525624
+                    ],
+                    [
+                        20.55617290012138,
+                        48.94432610010846
+                    ]
+                ]
+            },
+            "properties": {
+                "region_ID": 8,
+                "region_name": "Košický kraj",
+                "Type": "Traffic",
+                "district_ID": 810,
+                "district_Name": "Spišská Nová Ves",
+                "district_AreaLevel": 1,
+                "delaySeconds": 0,
+                "category_Code": "ZD2",
+                "category_Name": "Neprejazdná cesta v jednom smere",
+                "status_Code": "E0010",
+                "status_Name": "Oznamuje polícia",
+                "title": "Dočasná zmena dopravy - havária mosta",
+                "description": "Čiastočná uzávierka mostného objektu ponad rieku Hornád v smere jazdy na ul. Starosasku a presmerovanie dopravy do jedného jazdného pruhu z dôvodu zabezpečenia bezpečného koridoru pre peších. Zjednosmernenie ul. Za Šestnástkou v meste Spišská Nová Ves v celej dĺžke až po ul. Leteckú. Doprava usmernená dočasným dopravným značením.",
+                "Current_Time": 1612179775299,
+                "count": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        20.063621253714963,
+                        49.11211362833562
+                    ],
+                    [
+                        20.063621253714963,
+                        49.11211362833562
+                    ],
+                    [
+                        20.063621253714963,
+                        49.11211362833562
+                    ],
+                    [
+                        20.06374999974768,
+                        49.11208553675895
+                    ]
+                ]
+            },
+            "properties": {
+                "region_ID": 7,
+                "region_name": "Prešovský kraj",
+                "Type": "Traffic",
+                "district_ID": 706,
+                "district_Name": "Poprad",
+                "district_AreaLevel": 1,
+                "delaySeconds": 0,
+                "category_Code": "ZD2",
+                "category_Name": "Neprejazdná cesta v jednom smere",
+                "status_Code": "E0010",
+                "status_Name": "Oznamuje polícia",
+                "title": "Rekonštrukcia mosta 537-019 nad zubačkou",
+                "description": "Rekonštrukcia mosta 537-019 nad zubačkou, cesta II/537 prejazdná v jednom jazdnom pruhu v km 33,200",
+                "Current_Time": 1612179775299,
+                "count": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.48339426914824,
+                    48.85072573886683
+                ]
+            },
+            "properties": {
+                "region_ID": 8,
+                "region_name": "Košický kraj",
+                "Type": "Traffic",
+                "district_ID": 810,
+                "district_Name": "Spišská Nová Ves",
+                "district_AreaLevel": 1,
+                "delaySeconds": 0,
+                "category_Code": "ZD7",
+                "category_Name": "Dopravná situácia",
+                "status_Code": "E0008",
+                "status_Name": "Oznamuje občan",
+                "title": "zosuv cestného svahu v okr. RV",
+                "description": "zákaz vjazdu nad 3,5 t na cestu II/533 v úseku od križ. s cestou II/535",
+                "Current_Time": 1612284027005,
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.70683839976101,
+                    48.87862329972914
+                ]
+            },
+            "properties": {
+                "region_ID": 8,
+                "region_name": "Košický kraj",
+                "Type": "Traffic",
+                "district_ID": 810,
+                "district_Name": "Spišská Nová Ves",
+                "district_AreaLevel": 1,
+                "delaySeconds": 0,
+                "category_Code": "ZD7",
+                "category_Name": "Dopravná situácia",
+                "status_Code": "E0010",
+                "status_Name": "Oznamuje polícia",
+                "title": "zosuv cestného svahu",
+                "description": "zosuv cestného svahu a poškodenie cestného telesa cesty III/3244 v km 16,099",
+                "Current_Time": 1612284027005,
+                "count": 1
+            }
+        }
+    ]
+}
